@@ -28,7 +28,11 @@
     ],
     "overwrite": [],
     "externalReference": [],
-    "globalMetadata": {},
+    "globalMetadata": {
+       "ms.prod": "legal",
+       "ms.translationtype":"HT"
+    },
+    "breadcrumb_path": "/legal/bread/toc.json",
     "fileMetadata": {},
     "template": [],
     "dest": "DocsLegal",
