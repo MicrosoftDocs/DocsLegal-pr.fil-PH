@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "build": {
     "content": [
@@ -33,3 +34,40 @@
     "dest": "intune"
   }
 }
+=======
+{
+  "build": {
+    "content": [
+      {
+        "files": [
+          "**/*.md"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "intune/**",
+          "**/includes/**"
+        ]
+      }
+    ],
+    "resource": [
+      {
+        "files": [
+          "**/*.png",
+          "**/*.jpg"
+        ],
+        "exclude": [
+          "**/obj/**",
+          "intune/**",
+          "**/includes/**"
+        ]
+      }
+    ],
+    "overwrite": [],
+    "externalReference": [],
+    "globalMetadata": {},
+    "fileMetadata": {},
+    "template": [],
+    "dest": "intune"
+  }
+}
+>>>>>>> 9c9a0527b1d441904d67f104044811c7de4e035a

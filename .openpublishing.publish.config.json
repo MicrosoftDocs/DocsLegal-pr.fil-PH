@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "build_entry_point": "op",
   "docsets_to_publish": [
@@ -54,3 +55,61 @@
   "need_generate_pdf": false,
   "need_generate_intellisense": false
 }
+=======
+{
+  "build_entry_point": "op",
+  "docsets_to_publish": [
+    {
+      "docset_name": "DocsLegal",
+      "build_source_folder": "DocsLegal",
+      "build_output_subfolder": "DocsLegal",
+      "need_preview_pull_request": true,
+        "locale": "fil-ph",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes",
+      "version": 0
+    },
+    {
+      "docset_name": "intune",
+      "build_source_folder": "DocsLegal/intune",
+      "build_output_subfolder": "intune",
+      "locale": "fil-PH",
+      "open_to_public_contributors": false,
+      "type_mapping": {
+        "Conceptual": "Content",
+        "ManagedReference": "Content",
+        "RestApi": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes",
+      "version": 0
+    }
+  ],
+  "notification_subscribers": [],
+  "branches_to_filter": [
+  	"live-sxs",
+        "master-sxs"
+    ],
+  "continue_with_document_error": true,
+  "skip_source_output_uploading": false,
+  "dependent_repositories": [
+    {
+      "path_to_root": "_themes",
+      "url": "https://github.com/Microsoft/templates.docs.msft.fil-ph",
+      "branch": "master",
+      "branch_mapping": {}
+    }
+  ],
+  "need_generate_pdf_url_template": false,
+  "need_generate_pdf": false,
+  "need_generate_intellisense": false
+}
+>>>>>>> 9c9a0527b1d441904d67f104044811c7de4e035a
