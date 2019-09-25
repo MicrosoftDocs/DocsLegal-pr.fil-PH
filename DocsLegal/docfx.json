@@ -1,46 +1,3 @@
-<<<<<<< HEAD
-{
-  "build": {
-    "markdownEngineName": "markdig",
-    "content": [
-      {
-        "files": [
-          "**/*.md"
-        ],
-        "exclude": [
-          "**/obj/**",
-          "DocsLegal/**",
-          "**/includes/**"
-        ]
-      }
-    ],
-    "resource": [
-      {
-        "files": [
-          "**/*.png",
-          "**/*.jpg"
-        ],
-        "exclude": [
-          "**/obj/**",
-          "DocsLegal/**",
-          "**/includes/**"
-        ]
-      }
-    ],
-    "overwrite": [],
-    "externalReference": [],
-    "globalMetadata": {
-       "ms.prod": "legal",
-       "ms.translationtype":"HT"
-    },
-    "breadcrumb_path": "/legal/bread/toc.json",
-    "fileMetadata": {},
-    "template": [],
-    "dest": "DocsLegal",
-    "brand": "dynamics"
-  }
-}
-=======
 {
   "build": {
     "markdownEngineName": "markdig",
@@ -81,4 +38,3 @@
     "brand": "dynamics"
   }
 }
->>>>>>> 9c9a0527b1d441904d67f104044811c7de4e035a
