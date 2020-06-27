@@ -1,6 +1,6 @@
 
 # [Pangkalahatang Regulasyon sa Proteksiyon ng Data (GDPR)](gdpr.md)
-# [Mga Tuntunin sa Paglilisensiya sa Azure Software](/legal/information-protection/software-license-terms)
+# [Mga Tuntunin sa Paglilisensiya sa Software ng Azure](/legal/information-protection/software-license-terms)
 # [Mga Tuntunin sa Paggamit](/legal/termsofuse)
 <!-->
 ## [Basque](software-license-terms-eu-es.md)
