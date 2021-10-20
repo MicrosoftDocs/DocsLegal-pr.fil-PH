@@ -6,17 +6,16 @@ author: ''
 manager: ''
 ms.date: 09/19/2018
 ms.topic: article
-ms.prod: ''
-ms.service: ''
+ms.prod: legal
 ms.technology: ''
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
-ms.openlocfilehash: 07d175c205ed781a0eef363d4e4015810c53c3bb
-ms.sourcegitcommit: 6925c5b4ad2faff22d877acd2e07e09d289b5507
+ms.openlocfilehash: 904b079bf9580699105e1f73836cb8f1127c101f
+ms.sourcegitcommit: 3cfbabd1cd8dac0925815ab42ae1640787749fb7
 ms.translationtype: HT
 ms.contentlocale: fil-PH
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "77570831"
+ms.lasthandoff: 08/14/2021
+ms.locfileid: "122177322"
 ---
 # <a name="docsmicrosoftcom---terms-of-use"></a>docs.microsoft.com - Mga tuntunin sa paggamit
 
@@ -34,7 +33,7 @@ Maliban kung iba ang nakasaad, ang Mga Serbisyo ay para lamang sa iyong personal
 
 ## <a name="privacy-and-protection-of-personal-information"></a>Pagiging Pribado at Proteksyon ng Personal na Impormasyon
 
-Mahalaga sa amin ang iyong pagiging pribado. Pakibasa ang [Pahayag ng Pagiging Pribado ng Microsoft](https://privacy.microsoft.com/en-us/privacystatement) (ang "Pahayag ng Pagiging Pribado") dahil inilalarawan nito ang mga uri ng data na kinokolekta namin mula sa iyo at sa mga device mo, kung paano namin ginagamit ang data, at ang mga legal na batayan namin para iproseso ang data. Inilalarawan din ng Pahayag ng Pagiging Pribado kung paano ginagamit ng Microsoft ang mga Pagsusumite (ayon sa pagpapakahulugan dito), mga komento, rating o review ng Mga Serbisyo, mga komunikasyon, file, larawan, dokumento, audio, mga digital work, livestream, video at iba pang nilalaman na i-upload, iimbak, i-broadcast o ibahagi mo sa pamamagitan ng Mga Serbisyo (sama-sama, ang "Iyong Nilalaman"). Kung saan ang pagpoproseso ay nakabatay sa pahintulot at hangga't pinahihintulutan ng batas, sa pagsang-ayon sa Mga Tuntuning ito, pinapayagan mo ang pangongolekta, paggamit, at pagsisiwalat ng Microsoft sa Iyong Nilalaman at data gaya ng inilalarawan sa Pahayag ng Pagiging Pribado. Sa ilang sitwasyon, magbibigay kami ng hiwalay na abiso at hihilingin namin ang pahintulot mo gaya ng nakasaad sa Pahayag ng Pagiging Pribado.
+Mahalaga sa amin ang iyong pagiging pribado. Pakibasa ang [Pahayag ng Pagiging Pribado ng Microsoft](https://privacy.microsoft.com/privacystatement) (ang "Pahayag ng Pagiging Pribado") dahil inilalarawan nito ang mga uri ng data na kinokolekta namin mula sa iyo at sa mga device mo, kung paano namin ginagamit ang data, at ang mga legal na batayan namin para iproseso ang data na iyon. Inilalarawan din ng Pahayag ng Pagiging Pribado kung paano ginagamit ng Microsoft ang mga Pagsusumite (ayon sa pagpapakahulugan dito), mga komento, rating o review ng Mga Serbisyo, mga komunikasyon, file, larawan, dokumento, audio, mga digital work, livestream, video at iba pang nilalaman na i-upload, iimbak, i-broadcast o ibahagi mo sa pamamagitan ng Mga Serbisyo (sama-sama, ang "Iyong Nilalaman"). Kung saan ang pagpoproseso ay nakabatay sa pahintulot at hangga't pinahihintulutan ng batas, sa pagsang-ayon sa Mga Tuntuning ito, pinapayagan mo ang pangongolekta, paggamit, at pagsisiwalat ng Microsoft sa Iyong Nilalaman at data gaya ng inilalarawan sa Pahayag ng Pagiging Pribado. Sa ilang sitwasyon, magbibigay kami ng hiwalay na abiso at hihilingin namin ang pahintulot mo gaya ng nakasaad sa Pahayag ng Pagiging Pribado.
 
 **Pampublikong Impormasyon at Nilalaman ng Gumagamit**: Ang ibibigay mong impormasyon ng gumagamit (kabilang ang iyong username, display name, avatar image, talambuhay, ang titulo ng iyong trabaho at organisasyon at ang iyong mga user achievement) ay maaaring tingnan ng mga ibang tao. Kailangan mo lamang magbigay ng username at display name upang gamitin ang Tech Profile. Lahat ng iba pang field ay opsyonal. Maaari mong i-update ang iyong username at display name sa anumang oras. Maaari ring kolektahin ng Microsoft at ipakita sa publiko ang petsa na nagrehistro ka sa Tech Profile at ang iyong kaugnayan sa Microsoft.
 
@@ -71,7 +70,7 @@ HINDI KAILANMAN PANANAGUTAN NG MICROSOFT O NG MGA SUPPLIER NITO ANG ANUMANG ESPE
 
 Maaaring kailangan mo ng account sa Microsoft, account sa Azure Active Directory o account sa Tech Profile para i-access ang ilan sa Mga Serbisyo.
 
-**Account sa Microsoft**. Binibigyang-daan ka ng iyong account sa Microsoft na mag-sign in sa mga produkto, website at serbisyo na ibinibigay ng Microsoft at ng ilang kasosyo ng Microsoft. Maaari kang gumawa ng account sa Microsoft sa pamamagitan ng pagsa-sign up [online](https://signup.live.com/). Napapailalim ang mga account sa Microsoft sa [Kasunduan sa Mga Serbisyo ng Microsoft](https://www.microsoft.com/en-us/servicesagreement/).
+**Account sa Microsoft**. Binibigyang-daan ka ng iyong account sa Microsoft na mag-sign in sa mga produkto, website at serbisyo na ibinibigay ng Microsoft at ng ilang kasosyo ng Microsoft. Maaari kang gumawa ng account sa Microsoft sa pamamagitan ng pagsa-sign up [online](https://signup.live.com/). Napapailalim ang mga account sa Microsoft sa [Kasunduan sa Mga Serbisyo ng Microsoft](https://www.microsoft.com/servicesagreement/).
 
 **Account sa Azure Active Directory**. Maaaring mayroon kang account sa Microsoft sa pamamagitan ng isang organisasyon na kinabibilangan mo. Mangyaring makipag-ugnayan sa tagapangasiwa ng iyong organisasyon para sa impormasyon tungkol sa account na ito.
 
