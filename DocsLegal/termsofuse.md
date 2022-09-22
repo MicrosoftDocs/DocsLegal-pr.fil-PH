@@ -1,31 +1,31 @@
 ---
 title: Mga Tuntunin sa Paggamit
-description: Mga tuntunin sa paggamit para sa dokumentasyon sa docs.microsoft.com.
+description: Mga Tuntunin ng Paggamit para sa dokumentasyon sa learn.microsoft.com.
 keywords: ''
 author: ''
 manager: ''
-ms.date: 09/19/2018
+ms.date: 09/17/2022
 ms.topic: article
 ms.prod: legal
 ms.technology: ''
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
-ms.openlocfilehash: 904b079bf9580699105e1f73836cb8f1127c101f
-ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
+ms.openlocfilehash: 626e266caf6ba6b46149899bd8d6a78bb42302f2
+ms.sourcegitcommit: c60983f87856c154a8d94b208aea0d417c51b8b1
 ms.translationtype: HT
 ms.contentlocale: fil-PH
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "141347111"
+ms.lasthandoff: 09/17/2022
+ms.locfileid: "147949513"
 ---
-# <a name="docsmicrosoftcom---terms-of-use"></a>docs.microsoft.com - Mga tuntunin sa paggamit
+# <a name="learnmicrosoftcom---terms-of-use"></a>learn.microsoft.com - Mga Tuntunin ng Paggamit
 
 ## <a name="acceptance-of-terms"></a>Pagtanggap sa mga Tuntunin
 
-Nalalapat ang sumusunod na Mga Tuntunin sa Paggamit ("TOU") sa paggamit mo sa website ng Microsoft Docs ([https://docs.microsoft.com](https://docs.microsoft.com)), Tech Profile ([https://techprofile.microsoft.com](https://techprofile.microsoft.com)), at anumang nauugnay na mga serbisyo. Nakalaan sa Microsoft ang karapatang i-update ang TOU anumang oras nang walang abiso sa iyo. Makikita ang pinakabagong bersyon ng TOU sa pamamagitan ng pag-click sa hypertext link na "Mga Tuntunin sa Paggamit" na nasa ibabang bahagi ng aming mga Web page.
+Ang mga sumusunod na Tuntunin ng Paggamit (Terms of Use o "TOU") ay nalalapat sa paggamit mo ng website ng Microsoft Learn ([https://learn.microsoft.com](https://learn.microsoft.com)), Tech Profile, at anumang nauugnay na serbisyo. Nakalaan sa Microsoft ang karapatang i-update ang TOU anumang oras nang walang abiso sa iyo. Makikita ang pinakabagong bersyon ng TOU sa pamamagitan ng pag-click sa hypertext link na "Mga Tuntunin sa Paggamit" na nasa ibabang bahagi ng aming mga Web page.
 
 ## <a name="description-of-service"></a>Paglalarawan sa Serbisyo
 
-Sa pamamagitan ng website ng Microsoft Docs, Tech Profile at nauugnay na mga serbisyo, binibigyan ka ng Microsoft ng access sa sari-saring pamamaraan, kabilang ang mga interaktibong learning tutorial, dokumentasyon, mga video, developer tools, download areas, mga forum ng komunikasyon at impormasyon ng produkto (sama-sama ay tinatawag na "Mga Serbisyo"). Ang Mga Serbisyo, kabilang ang anumang mga update, pagpapahusay, mga bagong feature, at/o ang pagdaragdag ng anumang bagong Web properties, ay napapasailalim sa TOU.
+Sa pamamagitan ng website ng Microsoft Learn, Tech Profile, at mga nauugnay na serbisyo, bibigyan ka ng Microsoft ng access sa iba’t ibang resource, kabilang ang mga interactive na pagsasanay na tutorial, dokumentasyon, video, developer tool, download area, forum ng komunikasyon, at impormasyon ng produkto (sama-samang tinatawag na "Mga Serbisyo"). Ang Mga Serbisyo, kabilang ang anumang mga update, pagpapahusay, mga bagong feature, at/o ang pagdaragdag ng anumang bagong Web properties, ay napapasailalim sa TOU.
 
 ## <a name="personal-and-non-commercial-use-limitation"></a>Limitasyong Personal at Hindi Pangkomersyal na Paggamit
 
@@ -33,9 +33,9 @@ Maliban kung iba ang nakasaad, ang Mga Serbisyo ay para lang sa iyong personal a
 
 ## <a name="privacy-and-protection-of-personal-information"></a>Pagiging Pribado at Proteksyon ng Personal na Impormasyon
 
-Mahalaga sa amin ang iyong pagiging pribado. Pakibasa ang [Pahayag ng Pagiging Pribado ng Microsoft](https://privacy.microsoft.com/privacystatement) (ang "Pahayag ng Pagiging Pribado") dahil inilalarawan nito ang mga uri ng data na kinokolekta namin mula sa iyo at sa mga device mo, kung paano namin ginagamit ang data, at ang mga legal na batayan namin para iproseso ang data na iyon. Inilalarawan din ng Pahayag ng Pagiging Pribado kung paano ginagamit ng Microsoft ang mga Pagsusumite (ayon sa pagpapakahulugan dito), mga komento, rating o review ng Mga Serbisyo, mga komunikasyon, file, larawan, dokumento, audio, mga digital work, livestream, video at iba pang nilalaman na ina-upload, sino-store, bino-broadcast o ibinabahagi mo sa pamamagitan ng Mga Serbisyo (sama-sama, ang "Iyong Nilalaman"). Kapag nakabatay sa pahintulot ang pagpoproseso at hangga't pinahihintulutan ng batas, sa pagsang-ayon sa Mga Tuntuning ito, pinapayagan mo ang pangongolekta, paggamit, at pagsisiwalat ng Microsoft sa Iyong Nilalaman at data gaya ng inilalarawan sa Pahayag ng Pagiging Pribado. Sa ilang sitwasyon, magbibigay kami ng hiwalay na abiso at hihilingin namin ang pahintulot mo gaya ng nakasaad sa Pahayag ng Pagiging Pribado.
+Mahalaga sa amin ang privacy mo. Pakibasa ang [Pahayag ng Pagiging Pribado ng Microsoft](https://privacy.microsoft.com/privacystatement) (ang "Pahayag ng Pagiging Pribado") dahil inilalarawan nito ang mga uri ng data na kinokolekta namin mula sa iyo at sa mga device mo, kung paano namin ginagamit ang data, at ang mga legal na batayan namin para iproseso ang data na iyon. Inilalarawan din ng Pahayag ng Pagiging Pribado kung paano ginagamit ng Microsoft ang mga Pagsusumite (ayon sa pagpapakahulugan dito), mga komento, rating o review ng Mga Serbisyo, mga komunikasyon, file, larawan, dokumento, audio, mga digital work, livestream, video at iba pang nilalaman na ina-upload, sino-store, bino-broadcast o ibinabahagi mo sa pamamagitan ng Mga Serbisyo (sama-sama, ang "Iyong Nilalaman"). Kapag nakabatay sa pahintulot ang pagpoproseso at hangga't pinahihintulutan ng batas, sa pagsang-ayon sa Mga Tuntuning ito, pinapayagan mo ang pangongolekta, paggamit, at pagsisiwalat ng Microsoft sa Iyong Nilalaman at data gaya ng inilalarawan sa Pahayag ng Pagiging Pribado. Sa ilang sitwasyon, magbibigay kami ng hiwalay na abiso at hihilingin namin ang pahintulot mo gaya ng nakasaad sa Pahayag ng Pagiging Pribado.
 
-**Pampublikong Impormasyon at Nilalaman ng Gumagamit**: Ang ibibigay mong impormasyon ng gumagamit (kabilang ang iyong username, display name, avatar image, talambuhay, ang titulo ng iyong trabaho at organisasyon at ang iyong mga user achievement) ay maaaring tingnan ng mga ibang tao. Kailangan mo lang magbigay ng username at display name para magamit ang Tech Profile. Lahat ng iba pang field ay opsyonal. Maaari mong i-update ang iyong username at display name anumang oras. Maaari ring kolektahin ng Microsoft at ipakita sa publiko ang petsa na nagrehistro ka sa Tech Profile at ang iyong kaugnayan sa Microsoft.
+**Pampublikong Impormasyon at Content ng User**: Puwedeng tingnan ng iba ang impormasyon ng user na ibibigay mo (kabilang ang iyong username, display name, larawan ng avatar, biography, titulo mo sa trabaho at organisasyon mo, at mga achievement mo bilang user). Kailangan mo lang magbigay ng username at display name para magamit ang Tech Profile. Lahat ng iba pang field ay opsyonal. Maaari mong i-update ang iyong username at display name anumang oras. Maaari ring kolektahin ng Microsoft at ipakita sa publiko ang petsa na nagrehistro ka sa Tech Profile at ang iyong kaugnayan sa Microsoft.
 
 Anumang Nilalaman na ipo-post mo sa publiko ay maaari ring makita ng iba. Maaari mong i-delete ang mga partikular na uri ng Nilalaman matapos mai-post ang mga ito, ngunit hindi lahat ng uri ng Nilalaman ay maaaring ma-delete matapos mai-post ang mga ito sa publiko.
 
@@ -72,15 +72,15 @@ Maaaring kailangan mo ng account sa Microsoft, account sa Azure Active Directory
 
 **Account sa Microsoft**. Binibigyang-daan ka ng iyong account sa Microsoft na mag-sign in sa mga produkto, website at serbisyo na ibinibigay ng Microsoft at ng ilang kasosyo ng Microsoft. Maaari kang gumawa ng account sa Microsoft sa pamamagitan ng pagsa-sign up [online](https://signup.live.com/). Napapailalim ang mga account sa Microsoft sa [Kasunduan sa Mga Serbisyo ng Microsoft](https://www.microsoft.com/servicesagreement/).
 
-**Account sa Azure Active Directory**. Maaaring mayroon kang account sa Microsoft sa pamamagitan ng isang organisasyon na kinabibilangan mo. Mangyaring makipag-ugnayan sa tagapangasiwa ng iyong organisasyon para sa impormasyon tungkol sa account na ito.
+**Azure Active Directory Account**. Maaaring mayroon kang account sa Microsoft sa pamamagitan ng isang organisasyon na kinabibilangan mo. Mangyaring makipag-ugnayan sa tagapangasiwa ng iyong organisasyon para sa impormasyon tungkol sa account na ito.
 
-**Account sa Tech Profile**. Binibigyang-daan ka ng iyong account sa Tech Profile na mag-sign in sa website ng Microsoft Docs at gamitin ang mga nauugnay na serbisyo, kabilang ang libreng access sa mga pamamaraan ng pag-aaral, mga unblocking achievement, rating, pagkokomento, pagpo-post ng content at paggamit sa mga iba pang interaktibong serbisyo. Maaari kang gumawa ng account sa Tech Profile sa pamamagitan ng paggawa ng username sa [Tech Profile](https://techprofile.microsoft.com/) pagkatapos mag-log-in gamit ang isang Account sa Microsoft o Account sa Azure Active Directory.
+**Account sa Tech Profile**. Sa pamamagitan ng iyong Tech Profile account, makakapag-sign in ka sa website ng Microsoft Learn at magagamit mo ang mga nauugnay na serbisyo, kabilang ang libreng access sa mga resource sa pagsasanay, pag-unblock ng mga achievement, pagbibigay ng rating, pagkokomento, pag-post ng content, at paggamit ng iba pang interactive na serbisyo. Maaari kang gumawa ng account sa Tech Profile sa pamamagitan ng paggawa ng username sa Tech Profile pagkatapos mag-log-in gamit ang isang Account sa Microsoft o Account sa Azure Active Directory.
 
 Kinukumpirma mo na hindi ka gagamit ng anumang hindi totoo, hindi tumpak o nakakalinlang na impormasyon kapag nagsa-sign up para sa iyong account sa Tech Profile. Ikaw ang may ganap na tungkulin sa pagpapanatili sa pagkakumpidensyal ng iyong password at account. Bukod pa rito, ikaw lang ang may responsibilidad para sa anuman at lahat ng aktibidad na mangyayari sa iyong account. Sumasang-ayon kang abisuhan kaagad ang Microsoft tungkol sa anumang hindi awtorisadong paggamit sa iyong account o iba pang paglabag sa seguridad. Hindi pananagutan ng Microsoft ang anumang pagkawala na maaari mong matamo bilang resulta ng paggamit ng ibang tao sa iyong password o account, nang mayroon o wala kang kaalaman. Gayunpaman, maaari kang papanagutin para sa mga pagkawala na matatamo ng Microsoft o iba pang partido dahil sa paggamit ng ibang tao sa iyong account o password. Hindi mo maaaring gamitin ang account ng ibang tao sa anumang oras, nang walang pahintulot ang may-ari ng account.
 
 Kung gumagawa ka ng isang account sa Tech Profile sa ngalan ng isang entity, tulad ng iyong negosyo o employer, isinasaad mo na mayroon kang legal na karapatan na itali ang entity na iyon sa Mga Tuntuning ito. Hindi mo maaaring ilipat ang mga kredensyal ng iyong account sa Tech Profile sa ibang user o entity. Upang maprotektahan ang iyong account, panatilihing kumpidensyal ang mga detalye ng iyong account. Responsable ka sa lahat ng aktibidad na mangyayari sa iyong account sa Tech Profile.
 
-Maaari mong isara ang iyong Account sa Tech Profile sa pamamagitan ng pag-access sa [mga setting ng iyong account sa Tech Profile dito](https://techprofile.microsoft.com/edit/).
+Puwede mong isara ang iyong Tech Profile Account sa pamamagitan ng pag-access sa mga setting ng Tech Profile account mo.
 
 ## <a name="no-unlawful-or-prohibited-use"></a>Walang Labag sa Batas o Ipinagbabawal na Paggamit
 
