@@ -6,19 +6,19 @@ ms.author: jken
 ms.prod: legal
 ms.topic: article
 ms.date: 11/25/2020
-ms.openlocfilehash: fb025dc184b95fd2e4ab9331d36fce7cd5672471
-ms.sourcegitcommit: 608034089d1ea70317f64b4562eee1614c447d8f
+ms.openlocfilehash: 7661b9449c2cfb1dc69231499c5d89f0f78ff96e
+ms.sourcegitcommit: 4992204ccdcaf82cb72bf4aafe4526dbbaff2564
 ms.translationtype: HT
 ms.contentlocale: fil-PH
-ms.lasthandoff: 04/01/2022
-ms.locfileid: "141347063"
+ms.lasthandoff: 09/27/2022
+ms.locfileid: "147979607"
 ---
-# <a name="microsoft-legal-resources-on-docsmicrosoftcom"></a>Mga madudulugang legal sa Microsoft sa Docs.microsoft.com
+# <a name="microsoft-legal-resources-on-learnmicrosoftcom"></a>Mga legal na resource ng Microsoft sa learn.microsoft.com
 
-Mangyaring tingnan ang mga link sa ibaba sa mga madudulugang legal.
+Pakitingnan ang mga link sa ibaba sa mga madudulugang legal.
 
 - [Pangkalahatang Regulasyon sa Proteksiyon ng Data (GDPR)](/legal/gdpr)
-- [Mga Tuntunin sa Paglilisensiya ng Software](information-protection/software-license-terms.md)
+- [Mga Tuntunin sa Paglilisensiya sa Software](information-protection/software-license-terms.md)
 - [Mga Tuntunin sa Paggamit](/legal/termsofuse)
-- [Kodigo ng Asal ng Learn TV](/legal/learntv/codeofconduct)
-- [Mga Tuntunin ng Pagbabahagi ng Data sa Learn](/legal/learn/reporting/terms)
+- [Code of Conduct ng Learn TV](/legal/learntv/codeofconduct)
+- [Mga Tuntunin ng Pagbabahagi ng Data ng Learn](/legal/learn/reporting/terms)
