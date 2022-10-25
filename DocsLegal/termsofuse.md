@@ -10,12 +10,12 @@ ms.prod: legal
 ms.technology: ''
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
-ms.openlocfilehash: e3775ca714120078c7b616711a00ee5ca2959b22
-ms.sourcegitcommit: 4992204ccdcaf82cb72bf4aafe4526dbbaff2564
+ms.openlocfilehash: f20755cc9856e52068eb3189dbd12ebf90e4761c
+ms.sourcegitcommit: cf1db1b6138ad34406183a2735eab11b3293b130
 ms.translationtype: HT
 ms.contentlocale: fil-PH
-ms.lasthandoff: 09/27/2022
-ms.locfileid: "147979675"
+ms.lasthandoff: 10/21/2022
+ms.locfileid: "148103146"
 ---
 # <a name="learnmicrosoftcom---terms-of-use"></a>learn.microsoft.com - Mga Tuntunin ng Paggamit
 
@@ -70,7 +70,7 @@ HINDI KAILANMAN PANANAGUTAN NG MICROSOFT O NG MGA SUPPLIER NITO ANG ANUMANG ESPE
 
 Maaaring kailangan mo ng account sa Microsoft, account sa Azure Active Directory o account sa Tech Profile para i-access ang ilan sa Mga Serbisyo.
 
-**Account sa Microsoft**. Binibigyang-daan ka ng iyong account sa Microsoft na mag-sign in sa mga produkto, website at serbisyo na ibinibigay ng Microsoft at ng ilang kasosyo ng Microsoft. Maaari kang gumawa ng account sa Microsoft sa pamamagitan ng pagsa-sign up [online](https://signup.live.com/). Napapailalim ang mga account sa Microsoft sa [Kasunduan sa Mga Serbisyo ng Microsoft](https://www.microsoft.com/servicesagreement/).
+**Account sa Microsoft**. Binibigyang-daan ka ng iyong account sa Microsoft na mag-sign in sa mga produkto, website at serbisyo na ibinibigay ng Microsoft at ng ilang kasosyo ng Microsoft. [Maaari kang gumawa ng account sa Microsoft sa pamamagitan ng pagsa-sign up online](https://signup.live.com/). Napapailalim ang mga account sa Microsoft sa [Kasunduan sa Mga Serbisyo ng Microsoft](https://www.microsoft.com/servicesagreement/).
 
 **Azure Active Directory Account**. Maaaring mayroon kang account sa Microsoft sa pamamagitan ng isang organisasyon na kinabibilangan mo. Mangyaring makipag-ugnayan sa tagapangasiwa ng iyong organisasyon para sa impormasyon tungkol sa account na ito.
 
