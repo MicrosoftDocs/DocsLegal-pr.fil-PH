@@ -1,10 +1,10 @@
 
-# [Pangkalahatang Regulasyon sa Proteksiyon ng Data (GDPR)](gdpr.md)
-# [Mga Tuntunin sa Paglilisensiya sa Software ng Azure](/legal/information-protection/software-license-terms)
-# [Kasunduan sa Developer ng Microsoft](MDSA.md)
-# [Mga Tuntunin sa Paggamit](/legal/termsofuse)
-# [Kodigo ng Asal ng Learn TV](/legal/learntv/codeofconduct)
-# [Mga Tuntunin ng Pagbabahagi ng Data sa Learn](/legal/learn/reporting/terms)
+# <a name="general-data-protection-regulation-gdpr"></a>[Pangkalahatang Regulasyon sa Proteksiyon ng Data (GDPR)](gdpr.md)
+# <a name="azure-software-licensing-terms"></a>[Mga Tuntunin sa Paglilisensiya sa Software ng Azure](/legal/information-protection/software-license-terms)
+# <a name="microsoft-developer-agreement"></a>[Kasunduan sa Microsoft Developer](MDSA.md)
+# <a name="terms-of-use"></a>[Mga Tuntunin sa Paggamit](/legal/termsofuse)
+# <a name="learn-tv-code-of-conduct"></a>[Code of Conduct ng Learn TV](/legal/learntv/codeofconduct)
+# <a name="terms-of-learn-data-sharing"></a>[Mga Tuntunin ng Pagbabahagi ng Data ng Learn](/legal/learn/reporting/terms)
 
 <!--## [Basque](software-license-terms-eu-es.md) -->
 <!--## [Bulgarian](software-license-terms-bg-bg.md) -->
