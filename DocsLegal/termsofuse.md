@@ -6,27 +6,27 @@ keywords: null
 author: null
 manager: null
 ms.date: 09/17/2022
-ms.topic: article
+ms.topic: legal
 ms.prod: legal
 ms.technology: null
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
 ---
-# <a name="learnmicrosoftcom---terms-of-use"></a>learn.microsoft.com - Mga Tuntunin ng Paggamit
+# learn.microsoft.com - Mga Tuntunin ng Paggamit
 
-## <a name="acceptance-of-terms"></a>Pagtanggap sa mga Tuntunin
+## Pagtanggap sa mga Tuntunin
 
 Ang mga sumusunod na Tuntunin ng Paggamit (Terms of Use o "TOU") ay nalalapat sa paggamit mo ng website ng Microsoft Learn ([https://learn.microsoft.com](https://learn.microsoft.com)), Tech Profile, at anumang nauugnay na serbisyo. Nakalaan sa Microsoft ang karapatang i-update ang TOU anumang oras nang walang abiso sa iyo. Makikita ang pinakabagong bersyon ng TOU sa pamamagitan ng pag-click sa hypertext link na "Mga Tuntunin sa Paggamit" na nasa ibabang bahagi ng aming mga Web page.
 
-## <a name="description-of-service"></a>Paglalarawan sa Serbisyo
+## Paglalarawan sa Serbisyo
 
 Sa pamamagitan ng website ng Microsoft Learn, Tech Profile, at mga nauugnay na serbisyo, bibigyan ka ng Microsoft ng access sa iba’t ibang resource, kabilang ang mga interactive na pagsasanay na tutorial, dokumentasyon, video, developer tool, download area, forum ng komunikasyon, at impormasyon ng produkto (sama-samang tinatawag na "Mga Serbisyo"). Ang Mga Serbisyo, kabilang ang anumang mga update, pagpapahusay, mga bagong feature, at/o ang pagdaragdag ng anumang bagong Web properties, ay napapasailalim sa TOU.
 
-## <a name="personal-and-non-commercial-use-limitation"></a>Limitasyong Personal at Hindi Pangkomersyal na Paggamit
+## Limitasyong Personal at Hindi Pangkomersyal na Paggamit
 
 Maliban kung iba ang nakasaad, ang Mga Serbisyo ay para lang sa iyong personal at hindi pangkomersyal na paggamit. Hindi mo maaaring baguhin, kopyahin, ipamahagi, ipadala, itanghal sa publiko, ganapin, paramihin, ilathala, lisensiyahan, gawan ng mga derivative work, ilipat o ibenta ang anumang impormasyon, software, mga produkto o serbisyo na nakuha mula sa Mga Serbisyo (maliban para sa iyong sarili, personal, hindi pangkomersyal na paggamit) nang walang naunang nakasulat na pahintulot mula sa Microsoft.
 
-## <a name="privacy-and-protection-of-personal-information"></a>Pagiging Pribado at Proteksyon ng Personal na Impormasyon
+## Pagiging Pribado at Proteksyon ng Personal na Impormasyon
 
 Mahalaga sa amin ang privacy mo. Pakibasa ang [Pahayag ng Pagiging Pribado ng Microsoft](https://privacy.microsoft.com/privacystatement) (ang "Pahayag ng Pagiging Pribado") dahil inilalarawan nito ang mga uri ng data na kinokolekta namin mula sa iyo at sa mga device mo, kung paano namin ginagamit ang data, at ang mga legal na batayan namin para iproseso ang data na iyon. Inilalarawan din ng Pahayag ng Pagiging Pribado kung paano ginagamit ng Microsoft ang mga Pagsusumite (ayon sa pagpapakahulugan dito), mga komento, rating o review ng Mga Serbisyo, mga komunikasyon, file, larawan, dokumento, audio, mga digital work, livestream, video at iba pang nilalaman na ina-upload, sino-store, bino-broadcast o ibinabahagi mo sa pamamagitan ng Mga Serbisyo (sama-sama, ang "Iyong Nilalaman"). Kapag nakabatay sa pahintulot ang pagpoproseso at hangga't pinahihintulutan ng batas, sa pagsang-ayon sa Mga Tuntuning ito, pinapayagan mo ang pangongolekta, paggamit, at pagsisiwalat ng Microsoft sa Iyong Nilalaman at data gaya ng inilalarawan sa Pahayag ng Pagiging Pribado. Sa ilang sitwasyon, magbibigay kami ng hiwalay na abiso at hihilingin namin ang pahintulot mo gaya ng nakasaad sa Pahayag ng Pagiging Pribado.
 
@@ -34,7 +34,7 @@ Mahalaga sa amin ang privacy mo. Pakibasa ang [Pahayag ng Pagiging Pribado ng Mi
 
 Anumang Nilalaman na ipo-post mo sa publiko ay maaari ring makita ng iba. Maaari mong i-delete ang mga partikular na uri ng Nilalaman matapos mai-post ang mga ito, ngunit hindi lahat ng uri ng Nilalaman ay maaaring ma-delete matapos mai-post ang mga ito sa publiko.
 
-## <a name="notice-specific-to-software-available-on-this-website"></a>Abiso na Partikular sa Software na Makukuha sa Website na ito
+## Abiso na Partikular sa Software na Makukuha sa Website na ito
 
 Anumang software na ginawang available para ma-download mula sa Mga Serbisyo ("Software") ay ang naka-copyright na gawa ng Microsoft at/o ng mga supplier nito. Ang paggamit sa Software ay napapasailalim sa mga tuntunin ng kasunduan sa lisensiya ng end user, kung mayroon man, na kasama o nakalakip sa Software ("Kasunduan sa Lisensiya"). Hindi magagawa ng end user na i-install ang anumang Software na kasama o nakalakip sa isang Kasunduan sa Lisensiya maliban kung sasang-ayon muna siya sa mga tuntunin ng Kasunduan sa Lisensiya. Ang mga third-party na script o code, na naka-link o binabanggit mula sa website na ito, ay inilisensiya sa iyo ng mga third party na nagmamay-ari ng naturang code, hindi ng Microsoft.
 
@@ -46,14 +46,14 @@ ANG SOFTWARE AY GARANTISADO, KUNG MAYROON MANG WARRANTY, ALINSUNOD LAMANG SA MGA
 
 LEGEND NG MGA LIMITADONG KARAPATAN. Anumang software na dina-download mula sa Mga Serbisyo para sa o sa ngalan ng Estados Unidos ng Amerika, mga ahensiya, at/o mga instrumento nito ("Pamahalaan ng U.S."), ay ipinagkakaloob nang may mga Limitadong Karapatan. Ang paggamit, pag-duplicate, o paghahayag ng Pamahalaan ng U.S. ay napapailalim sa mga paghihigpit tulad ng nakasaad sa subparagraph (c)(1)(ii) ng talatang Mga Karapatan sa Teknikal na Data at Computer Software sa DFARS 252.227-7013 o mga subparagraph (c)(1) at (2) ng Komersyal na Computer Software - Mga Pinaghihigpitang Karapatan sa 48 CFR 52.227-19, ayon sa naaangkop. Ang manufacturer ay ang Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399.
 
-## <a name="notice-specific-to-documents-available-on-this-website"></a>Abiso na Partikular sa mga Dokumentong Makukuha sa Website na ito
+## Abiso na Partikular sa mga Dokumentong Makukuha sa Website na ito
 
 May mga partikular na dokumentasyon ang maaaring napapasailalim sa hayagang mga tuntunin ng lisensiya na hiwalay sa mga tuntuning nilalaman dito. Sa hangganang nagsasalungatan ang mga tuntunin, iiral ang mga hayagang tuntunin ng lisensiya.
 Ang pahintulot na gamitin ang mga Dokumento (tulad ng mga white paper, press release, datasheet at FAQ) mula sa Mga Serbisyo ay ipinagkakaloob, hangga’t (1) ang abiso ng copyright sa ibaba ay makikita sa lahat ng kopya at parehong makikita ang abiso ng copyright at ang abiso ng pahintulot na ito, (2) ang paggamit sa naturang mga Dokumento mula sa Mga Serbisyo ay para sa pagbibigay ng impormasyon at hindi pangkomersyal o para sa personal na paggamit lang at hindi kokopyahin o ipo-post sa anumang computer network o ibo-broadcast sa anumang media, at (3) walang gagawing anumang pagbabago sa anumang Dokumento. Ang mga akreditadong institusyong pang-edukasyon, tulad ng K-12, mga unibersidad, mga pribado/pampublikong kolehiyo, at mga pangkomunidad na kolehiyo ng estado, ay maaaring mag-download at kumopya ng mga Dokumento para ipamahagi sa silid-aralan. Ang pamamahagi sa labas ng silid-aralan ay nangangailangan ng hayagang nakasulat na pahintulot. Ang paggamit para sa anumang iba pang layunin ay hayagang ipinagbabawal ng batas, at maaaring magresulta sa mabigat na mga sibil at kriminal na kaparusahan. Isasakdal ang mga lalabag sa sukdulang hangganang maaari.
 
 Hindi kasama sa mga dokumentong binanggit sa itaas ang disenyo o layout ng Microsoft.com website o anumang iba pang site na pagmamay-ari, pinatatakbo, nilisensiyahan o kinokontrol ng Microsoft. Ang mga bahagi ng mga website ng Microsoft ay protektado ng trade dress, trademark, hindi patas na kumpetisyon, at iba pang mga batas at hindi maaaring kopyahin o gayahin ang kabuuan o bahagi nito. Walang logo, grapiko, tunog o imahe mula sa anumang website ng Microsoft ang maaaring kopyahin o muling ipadala maliban kung hayagang pinahintulutan ng Microsoft.
 
-## <a name="disclaimer-and-limitation-of-liability-for-the-services"></a>Pagtatanggi at Limitasyon ng Pananagutan para sa Mga Serbisyo
+## Pagtatanggi at Limitasyon ng Pananagutan para sa Mga Serbisyo
 
 WALANG GINAGAWANG PAHAYAG ANG MICROSOFT AT/O ANG MGA SUPPLIER NITO TUNGKOL SA KAANGKUPAN NG MGA SERBISYO O SA KAANGKUPAN NG IMPORMASYON NA NILALAMAN NG MGA DOKUMENTONG ITO AT MGA NAUUGNAY NA GRAPHIC NA INILALATHALA BILANG BAHAGI NG MGA SERBISYO PARA SA ANUMANG LAYUNIN. LAHAT NG SERBISYO, DOKUMENTO AT NAUUGNAY NA GRAPHIC AY IPINAGKAKALOOB NANG "GANOON" NANG WALANG ANUMANG URI NG WARRANTY. SA PAMAMAGITAN NITO, ITINATANGGI NG MICROSOFT AT/O NG MGA SUPPLIER NITO ANG LAHAT NG WARRANTY AT KONDISYON HINGGIL SA MGA SERBISYO, IMPORMASYON AT NAUUGNAY NA GRAPIKO, KABILANG ANG LAHAT NG WARRANTY AT KONDISYON NG PAGIGING NABEBENTA, ITO MAN AY HAYAGAN, PAHIWATIG O AYON SA BATAS, KAANGKUPAN PARA SA ISANG PARTIKULAR NA LAYUNIN, TITULO AT HINDI-PAGLABAG. HINDI KAILANMAN PANANAGUTAN NG MICROSOFT O NG MGA SUPPLIER NITO ANG ANUMANG ESPESYAL, HINDI DIREKTA, O KINAHINATNANG PINSALA O ANUMANG PINSALANG RESULTA NG PAGKAWALA NG PAGGAMIT, DATA, O MGA KITA, ITO MAN AY DAHIL SA PAGLALAPAT NG KONTRATA, PAGPAPABAYA, O IBA PANG MALING PAGKILOS, NA DULOT NG O NAUUGNAY SA MGA SERBISYO, KABILANG ANG PAGGAMIT O PAGGANAP SA IMPORMASYONG AVAILABLE MULA SA MGA SERBISYO.
 
@@ -61,7 +61,7 @@ ANG MGA DOKUMENTO AT NAUUGNAY NA GRAPHIC NA INILATHALA SA MGA SERBISYO AY MAAARI
 
 HINDI KAILANMAN PANANAGUTAN NG MICROSOFT O NG MGA SUPPLIER NITO ANG ANUMANG ESPESYAL, HINDI DIREKTA, O KINAHINATNANG PINSALA O ANUMANG PINSALANG RESULTA NG PAGKAWALA NG PAGGAMIT, DATA, O MGA KITA, ITO MAN AY DAHIL SA PAGLALAPAT NG KONTRATA, PAGPAPABAYA, O IBA PANG MALING PAGKILOS, NA DULOT NG O NAUUGNAY SA PAGGAMIT O PAGGANAP SA MGA SERBISYO, SOFTWARE, DOKUMENTO, PAGBIBIGAY NG O PAGKABIGONG IBIGAY ANG MGA SERBISYO, O IMPORMASYONG AVAILABLE MULA SA MGA SERBISYO.
 
-## <a name="tech-profile-account-password-and-security"></a>Account, Password at Seguridad sa Tech Profile
+## Account, Password at Seguridad sa Tech Profile
 
 Maaaring kailangan mo ng account sa Microsoft, account sa Azure Active Directory o account sa Tech Profile para i-access ang ilan sa Mga Serbisyo.
 
@@ -77,11 +77,11 @@ Kung gumagawa ka ng isang account sa Tech Profile sa ngalan ng isang entity, tul
 
 Puwede mong isara ang iyong Tech Profile Account sa pamamagitan ng pag-access sa mga setting ng Tech Profile account mo.
 
-## <a name="no-unlawful-or-prohibited-use"></a>Walang Labag sa Batas o Ipinagbabawal na Paggamit
+## Walang Labag sa Batas o Ipinagbabawal na Paggamit
 
 Bilang kondisyon ng iyong paggamit sa Mga Serbisyo, hindi mo gagamitin ang Mga Serbisyo para sa anumang layunin na labag sa batas o ipinagbabawal ng mga tuntunin, kondisyon, at abiso na ito. Hindi mo maaaring gamitin ang Mga Serbisyo sa anumang paraan na maaaring makasira, maka-disable, makapagpahirap, o makapagpahina sa anumang server ng Microsoft, o sa (mga) network na nakakonekta sa anumang server ng Microsoft, o maaaring makahadlang sa paggamit at pakinabang ng anumang iba pang partido sa Mga Serbisyo. Hindi mo maaaring subukang kumuha ng hindi pinahihintulutang access sa Mga Serbisyo, iba pang mga account, computer system o network na nakakonekta sa anumang server ng Microsoft o sa alinman sa Mga Serbisyo, sa pamamagitan ng hacking, password mining o anumang iba pang mga paraan. Hindi ka maaaring kumuha o hindi mo maaaring subukang kumuha ng anumang materyal o impormasyon sa anumang paraan na hindi sadyang ginawang available sa pamamagitan ng Mga Serbisyo.
 
-## <a name="use-of-services"></a>Paggamit sa Mga Serbisyo
+## Paggamit sa Mga Serbisyo
 
 Ang Mga Serbisyo ay maaaring maglaman ng mga serbisyo ng e-mail, mga serbisyo ng bulletin board, mga chat area, news groups, forums, mga komunidad, mga personal na web page, kalendaryo, album ng litrato, mga file cabinet at/o iba pang mga pasilidad ng mensahe o komunikasyon na dinisenyo upang bigyan ka ng paraan na makipag-usap sa iba. Sumasang-ayon kang gamitin ang Mga Serbisyo para lamang mag-post, magpadala at tumanggap ng mga mensahe at materyal na wasto at, kapag naaangkop, nauugnay sa partikular na Serbisyo. Bilang halimbawa, at hindi bilang limitasyon, sumasang-ayon ka na kapag ginagamit ang Mga Serbisyo, hindi ka:
 
@@ -111,7 +111,7 @@ Ang mga materyal na na-upload sa Mga Serbisyo ay maaaring mapasailalim sa mga na
 
 Ang mga video at eBook ay maaaring nasa Ingles lamang. Kung mag-click ka sa mga link, maaari kang dalhin sa isang website ng U.S. na ang nilalaman ay nasa Ingles lamang.
 
-## <a name="materials-provided-to-microsoft-or-posted-to-the-services"></a>Mga Materyal na Ibinibigay sa Microsoft o Ipino-post sa Mga Serbisyo
+## Mga Materyal na Ibinibigay sa Microsoft o Ipino-post sa Mga Serbisyo
 
 Hindi inaako ng Microsoft ang pagmamay-ari sa mga materyal na ibibigay mo sa Microsoft (kabilang ang feedback at suhestyon) o na ipo-post, ia-upload, ilalagay o isusumite mo sa anumang Mga Serbisyo o sa mga nauugnay na serbisyo para sa pagsusuri ng pangkalahatang publiko, o ng mga miyembro ng anumang pampubliko o pribadong komunidad, (ang bawat isa, "Pagsusumite" at sama-sama, "Mga Pagsusumite"). Gayunpaman, sa pamamagitan ng pag-post, pag-upload, paglalagay, pagbibigay, o pagsusumite ("Pag-post") ng iyong Isusumite, binibigyan mo ang Microsoft, mga kaakibat nitong kumpanya, at mga kinakailangang sublicensee, ng pahintulot na gamitin ang iyong Isusumite kaugnay ng pagpapatakbo ng kanilang mga negosyo sa Internet (kasama, nang walang limitasyon, ang lahat ng Serbisyo ng Microsoft), kasama, nang walang limitasyon, ang mga karapatan sa lisensiya na: kopyahin, ipamahagi, ipadala, ipakita sa publiko, isagawa sa publiko, i-reproduce, i-edit, isalin, at i-reformat ang iyong Isusumite; na i-publish ang iyong pangalan kaugnay ng Isusumite mo, at ang karapatang i-sublicense ang mga nasabing karapatan sa sinumang supplier ng Mga Serbisyo.
 
@@ -121,16 +121,16 @@ Sa pamamagitan ng Pagpo-post ng Pagsusumite, ginagarantiyahan at ipinahahayag mo
 
 Bukod pa sa warranty at pagpapahayag na nakasaad sa itaas, sa pamamagitan ng Pagpo-post ng Pagsusumite na naglalaman ng mga imahe, litrato, larawan o iba pang graphic nang buo o bahagi lang ("Mga Larawan"), ginagarantiyahan at ipinahahayag mo na (a) ikaw ang may-ari ng copyright sa naturang Mga Larawan, o na binigyan ka ng may-ari ng copyright sa naturang Mga Larawan ng pahintulot na gamitin ang naturang Mga Larawan o anumang nilalaman at/o mga imahe na nilalaman ng naturang Mga Larawan nang naaayon sa paraan at layunin ng paggamit mo at ayon sa pinahihintulutan ng Mga Tuntunin sa Paggamit na ito at sa Mga Serbisyo, (b) hawak mo ang kinakailangang mga karapatan na magbigay ng mga lisensiya at sublicense na inilalarawan sa Mga Tuntunin sa Paggamit na ito, at (c) na bawat taong nakikita sa naturang Mga Larawan, kung mayroon man, ay nagbigay ng pahintulot na gamitin ang Mga Larawan tulad ng nakasaad sa Mga Tuntunin sa Paggamit na ito, kasama, bilang halimbawa, at hindi bilang limitasyon, ang pamamahagi, pagpapakita sa publiko at pagpaparami sa naturang mga Larawan. Sa pamamagitan ng Pagpo-post ng Mga Larawan, ibinibigay mo (a) sa lahat ng miyembro ng iyong pribadong komunidad (para sa bawat isa sa nasabing Mga Larawang available sa mga miyembro ng nasabing pribadong komunidad), at/o (b) sa pangkalahatang publiko (para sa bawat isa sa nasabing Mga Larawang available saanman sa Mga Serbisyo, bukod pa sa pribadong komunidad), ang pahintulot na gamitin ang iyong Mga Larawan kaugnay ng paggamit, ayon sa pinahihintulutan sa Mga Tuntunin sa Paggamit na ito, sa alinman sa Mga Serbisyo, (kasama, bilang halimbawa, at hindi bilang limitasyon, ang paggawa ng mga print at gift item na kinabibilangan ng nasabing Mga Larawan), at kasama, nang walang limitasyon, ang hindi eksklusibo, pambuong-mundo, at walang royalty na lisensiya na: kopyahin, ipamahagi, ipadala, ipakita sa publiko, isagawa sa publiko, i-reproduce, i-edit, isalin, at i-reformat ang iyong Mga Larawan nang hindi nakalakip ang pangalan mo sa nasabing Mga Larawan, at ang karapatang i-sublicense ang mga nasabing karapatan sa sinumang supplier ng Mga Serbisyo. Ang mga lisensiyang ipinagkakaloob sa mga naunang pahayag para sa Mga Larawan ay matatapos sa panahong ganap mong aalisin ang naturang Mga Larawan sa Mga Serbisyo, hanggat’t ang naturang pagtatapos ay hindi makakaapekto sa anumang mga linsensiyang ipinagkaloob kaugnay ng naturang Mga Larawan bago ang panahong ganap mong inalis ang naturang Mga Larawan. Walang ibibigay na kabayaran kaugnay ng paggamit sa iyong Mga Larawan.
 
-## <a name="notices-and-procedure-for-making-claims-of-copyright-infringement"></a>Mga Paunawa at Pamamaraan para sa Paghahain ng Mga Paratang ng Paglabag sa Copyright
+## Mga Paunawa at Pamamaraan para sa Paghahain ng Mga Paratang ng Paglabag sa Copyright
 
 Alinsunod sa Titulo 17, Kodigo ng Estados Unidos, Seksyon 512(c)(2), ang mga abiso sa pagpaparatang ng paglabag sa copyright ay dapat ipadala sa aming Nakatalagang Ahente ng Tagapagbigay ng Serbisyo. ANG LAHAT NG TANONG NA HINDI NAUUGNAY SA SUMUSUNOD NA PAMAMARAAN AY HINDI MAKAKATANGGAP NG TUGON.
 Tingnan ang [Paunawa at Pamamaraan para sa Paghahain ng Mga Paratang ng Paglabag sa Copyright](https://www.microsoft.com/info/cpyrtinfrg.aspx).
 
-## <a name="links-to-third-party-sites"></a>Mga Link sa Mga Site ng Ikatlong Partido
+## Mga Link sa Mga Site ng Ikatlong Partido
 
 ANG MGA LINK SA SERBISYONG ITO AY MAAARING MAGBIGAY-DAAN SA IYONG UMALIS SA SITE NG MICROSOFT. ANG MGA NAKA-LINK NA SITE AY WALA SA KONTROL NG MICROSOFT AT HINDI PANANAGUTAN NG MICROSOFT ANG MGA NILALAMAN NG ANUMANG NAKA-LINK NA SITE O ANUMANG LINK NA NILALAMAN NG NAKA-LINK NA SITE, O ANUMANG MGA PAGBABAGO O UPDATE SA NATURANG MGA SITE. HINDI TUNGKULIN NG MICROSOFT ANG WEBCASTING O ANUMANG IBA PANG URI NG PAGPAPADALA NA NATANGGAP MULA SA ANUMANG NAKA-LINK NA SITE. IBINIBIGAY NG MICROSOFT ANG MGA LINK NA ITO SA IYO PARA SA IYONG GINHAWA, AT ANG PAGKAKASAMA NG ANUMANG LINK AY HINDI NAGPAPAHIWATIG NG PAG-EENDORSO NG MICROSOFT SA SITE.
 
-## <a name="unsolicited-idea-submission-policy-reservation-of-rights-and-feedback"></a>Patakaran sa Di-Hinihinging Pagsusumite ng Ideya, Paglalaan ng mga Karapatan at Feedback
+## Patakaran sa Di-Hinihinging Pagsusumite ng Ideya, Paglalaan ng mga Karapatan at Feedback
 
 ANG MICROSOFT O SINUMAN SA MGA EMPLEYADO NITO AY HINDI TUMATANGGAP O NAGSASAALANG-ALANG NG MGA DI-HINIHINGING IDEYA, KABILANG ANG MGA IDEYA PARA SA BAGONG ADVERTISING CAMPAIGN, MGA BAGONG PROMOSYON, MGA BAGONG PRODUKTO O TEKNOLOHIYA, PROSESO, MATERYAL, MGA PLANO SA PAGBEBENTA O MGA PANGALAN NG BAGONG PRODUKTO. MANGYARING HUWAG MAGPAPADALA NG ANUMANG ORIHINAL NA MALIKHAING GAWANG SINING, MGA SAMPOL, DEMO, O IBA PANG GAWAIN. ANG TANGING LAYUNIN NG PATAKARANG ITO AY ANG IWASAN ANG MGA POSIBLENG DI-PAGKAKAUNAWAAN O PAGTATALO KAPAG ANG MGA PRODUKTO O DISKARTE SA PAGBEBENTA NG MICROSOFT AY MAAARING MAGMUKHANG KATULAD NG MGA IDEYANG ISINUMITE SA MICROSOFT. KAYA, MANGYARING HUWAG IPADADALA ANG MGA DI-HINIHINGING IDEYA MO SA MICROSOFT O SA SINUMAN SA MICROSOFT. KUNG SA KABILA NG AMING KAHILINGAN NA HUWAG MONG IPADALA SA AMIN ANG IYONG MGA IDEYA AT MATERYAL, IPADADALA MO PA RIN ANG MGA ITO, PAKITANDAAN NA WALANG IBINIBIGAY NA KASIGURADUHAN ANG MICROSOFT NA ANG IYONG MGA IDEYA AT MATERYAL AY ITUTURING NA KUMPIDENSYAL O MAY NAGMAMAY-ARI.
 

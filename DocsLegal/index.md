@@ -4,13 +4,13 @@ description: 'Impormasyon tungkol sa Mga Tuntunin sa Paggamit, GDPR, Proteksiyon
 author: GrantMeStrength
 ms.author: jken
 ms.prod: legal
-ms.topic: article
+ms.topic: legal
 ms.date: 11/25/2020
 ---
 
 
 
-# <a name="microsoft-legal-resources-on-learnmicrosoftcom"></a>Mga legal na resource ng Microsoft sa learn.microsoft.com
+# Mga legal na resource ng Microsoft sa learn.microsoft.com
 
 Pakitingnan ang mga link sa ibaba sa mga madudulugang legal.
 
