@@ -1,15 +1,13 @@
 ---
-# required metadata
 title: Kasunduan sa Microsoft Developer
 description: Kasunduan sa Microsoft Developer learn.microsoft.com
 author: gregtouchton
 ms.service: active-directory
-ms.topic: article
 ms.date: 06/15/2018
 ms.author: grtoucht
 layout: ContentPage
 ---
-# <a name="microsoft-developer-agreement"></a>Kasunduan sa Microsoft Developer
+# Kasunduan sa Microsoft Developer
 
 ---
 Huling na update: Hunyo 2018
@@ -19,7 +17,7 @@ Ang kasunduang ito ay sa pagitan mo at ng Microsoft Corporation ("**Microsoft**"
 Kung pumapasok ka sa Kasunduang ito sa ngalan ng isang entity, tulad ng iyong employer, isinasaad mo na mayroon kang legal na karapatan na ipailalim ang entity na iyon.
 Kung may tinukoy kang pangalan ng kumpanya kaugnay ng pag sign up para sa o pag-order ng isang Serbisyo, ituturing na inilagay mo ang order na iyon at pumasok ka sa Kasunduang ito sa ngalan ng organisasyon o kumpanyang iyon. Nasa Seksyon 10 ang kahulugan ng mga pangunahing termino.
 
-## <a name="1-offerings"></a>1. Mga Alok
+## 1. Mga Alok
 
 1. **Mga API.** Ang iyong pag-access at paggamit ng mga API ng Microsoft ay pinamamahalaan ng ilang partikular na tuntunin at kundisyon. Bilang developer, responsable ka sa iyong application at pagsunod sa lahat ng batas at regulasyon na naaangkop sa iyong paggamit ng mga API ng Microsoft, kabilang ang mga batas at regulasyon na nalalapat sa privacy, biometric data, proteksyon ng data, at pagiging kumpidensyal ng mga komunikasyon. Walang anumang bagay sa aming mga kasunduan sa pamamahala, o sa Kasunduang ito, ay dapat ipagpalagay bilang paglikha ng isang joint controller o processor-sub processor na ugnayan sa pagitan mo at ng Microsoft.
 
@@ -33,7 +31,7 @@ Kung may tinukoy kang pangalan ng kumpanya kaugnay ng pag sign up para sa o pag-
 
 2. **Mga Serbisyo.**
 
-    1. **Karapatang gumamit.**  Maaari ka naming bigyan ng karapatang ma-access at gamitin ang mga Serbisyo alinsunod sa Kasunduang ito.
+    1. **Karapatang gumamit.** Maaari ka naming bigyan ng karapatang ma-access at gamitin ang mga Serbisyo alinsunod sa Kasunduang ito.
 
     2. **Paraan ng paggamit.** Hindi mo maaaring gawin ang mga sumusunod:
 
@@ -69,7 +67,7 @@ Kung may tinukoy kang pangalan ng kumpanya kaugnay ng pag sign up para sa o pag-
 4. **Mga preview na feature.** Puwede naming gawing available ang mga feature sa isang Preview na batayan.
     Ang mga preview ay ibinibigay nang "AS-IS" at hindi kasama sa mga warranty sa Section 6 sa ibaba. Ang mga preview ay puwedeng napapailalim sa mas mababa o naiibang mga pangako sa seguridad, pagsunod, privacy, availability, pagiging maaasahan, at suporta, tulad ng karagdagang ipinaliwanag sa Pahayag sa Privacy, at anumang karagdagang abiso na ibinigay kasama ng Preview. Puwede naming baguhin o itigil ang Mga Preview anumang oras nang walang abiso. Puwede rin naming piliin na huwag maglabas ng Preview sa “Pangkalahatang Availability,” at kung gagawin naming “Pangkalahatang Magagamit” ang Mga Preview, puwede kaming maningil para sa anumang naturang feature.
 
-## <a name="2-software-and-microsoft-content"></a>2. Software at Content ng Microsoft
+## 2. Software at Content ng Microsoft
 
 1. **Paggamit ng Software ng Microsoft at Content ng Microsoft sa labas ng Serbisyo.**
     Puwede kang bigyan ng Microsoft ng Software ng Microsoft o Content ng Microsoft sa pamamagitan o bilang bahagi ng Mga Serbisyo. Ang pagwawakas o pagsuspinde ng Kasunduang ito o ng iyong paggamit o pag-access sa Mga Serbisyo ay nagwawakas sa iyong karapatang magkaroon o gumamit ng anumang naturang Software ng Microsoft o Content ng Microsoft maliban kung hiwalay itong nakalisensya sa iyo. Ang pagsuspinde o pagwawakas ng isang Plano ng User ay nagwawakas sa karapatan ng user na magkaroon o gumamit ng anumang naturang Software ng Microsoft o Content ng Microsoft na kaugnay ng, o nakadepende sa, Plano ng User na iyon. Kailangan mong i-delete ang lahat ng kopya ng naturang Software ng Microsoft o Content ng Microsoft na lisensyado sa ilalim ng Kasunduang ito at sirain ang anumang kaugnay na media sa pagwawakas ng mga kaugnay na karapatan sa pag-aari o paggamit. Ang subsection na ito ay hindi nalalapat sa Software ng Microsoft na binabanggit sa subsection (b) sa ibaba.
@@ -84,7 +82,7 @@ Kung may tinukoy kang pangalan ng kumpanya kaugnay ng pag sign up para sa o pag-
 
 6. **Paggamit ng Klase.** Ang mga akreditadong institusyong pang-edukasyon, tulad ng mga K-12 na paaralan, unibersidad, at pribado o pampublikong kolehiyo, ay puwedeng mag-download at mag-reproduce ng Content ng Microsoft para sa pamamahagi sa klase para sa mga layuning pang-edukasyon.
 
-## <a name="3-security-and-privacy"></a>3. Seguridad at privacy
+## 3. Seguridad at privacy
 
 1. **Seguridad.** Nagpapanatili kami ng mga teknikal at organisasyonal na hakbang, mga panloob na kontrol, at mga regular na hakbang sa seguridad ng data na naglalayong maprotektahan ang Data ng User laban sa hindi sinasadyang pagkawala o pagbabago, hindi awtorisadong pagsisiwalat o pag-access, o labag sa batas na pagkasira.
 
@@ -108,7 +106,7 @@ Kung may tinukoy kang pangalan ng kumpanya kaugnay ng pag sign up para sa o pag-
 
 5. **Pagsubaybay; Audit**. Puwede naming subaybayan ang iyong pag-access at paggamit ng Mga Serbisyo (kabilang ang mga naaangkop na produkto at serbisyo, website, Content, at data) para sa mga layunin ng pagsubaybay sa iyong pagsunod sa Kasunduang ito. Bukod pa rito, ang iyong pag-access at paggamit ng Mga Serbisyo at sa loob ng limang taon pagkatapos, kailangan mong, sa makatwirang abiso mula sa Microsoft, pahintulutan ang Microsoft o ang auditor nito, sa gastos ng Microsoft, na magsagawa ng mga audit kaugnay ng iyong paggamit ng Mga Serbisyo, para matiyak ang iyong pagsunod sa Kasunduang ito. Kailangan mong bigyan ang Microsoft ng makatwirang access sa anumang tauhan, lugar, impormasyon, system, aklat, at talaan na may kaugnayan sa iyong paggamit ng Mga Serbisyo para bigyang-daan ang Microsoft na magsagawa ng audit. Kung hihilingin, kailangan mong bigyan kami ng katibayan ng iyong pagsunod sa Kasunduang ito.
 
-## <a name="4-customer-accounts-customer-conduct-and-feedback"></a>4. Mga account ng customer, gawi ng customer, at feedback
+## 4. Mga account ng customer, gawi ng customer, at feedback
 
 1. **Paggawa ng account.** Kung hihingiin sa iyo ng alinman sa mga Serbisyo na magbukas ka ng account, kailangan mong kumpletuhin ang proseso ng pagpaparehistro sa pamamagitan ng pagbibigay sa amin ng bago, kumpleto, at tumpak na impormasyon. Hindi ka puwedeng pumili ng isang user name o identifier ng account na nagpapanggap bilang ibang tao, ilegal o posibleng ilegal, o posibleng protektado ng trademark o iba pang mga karapatan sa pagmamay ari, bulgar o nakakasakit o puwedeng maging sanhi ng pagkalito. Nakalaan sa amin ang karapatang tanggihan at/o i-reassign ang mga user name at identifier na ito ng Serbisyo sa sarili naming paghuhusga.
 
@@ -118,7 +116,7 @@ Kung may tinukoy kang pangalan ng kumpanya kaugnay ng pag sign up para sa o pag-
 
 4. **Mga pagsusumite at feedback.** Hindi namin inaangkin ang pagmamay ari ng anumang Pagsusumite maliban kung mapagkakasunduan ng mga party. Gayunpaman, sa pamamagitan ng pagbibigay ng Pagsusumite, walang bawian mong binibigyan ang Microsoft at mga affiliate nito ng karapatang gawin, gamitin, baguhin, ipamahagi at kung hindi man ay gawing komersyal ang Pagsusumite sa anumang paraan at para sa anumang layunin (kabilang ang pagbibigay sa pangkalahatang publiko ng karapatang gamitin ang iyong Mga Pagsusumite alinsunod sa Kasunduang ito, na puwedeng magbago sa paglipas ng panahon). Para sa Mga Pagsusumite na ibinigay sa Mga Portal ng Dokumentasyon, ibinibigay mo rin ang karapatang mag-publish ng partikular na impormasyong nagbibigay ng pagkakakilanlan na idinetalye sa Pahayag ng Privacy kaugnay ng iyong Pagsusumite. Ang mga karapatang ito ay ipinagkakaloob sa ilalim ng lahat ng naaangkop na karapatan sa intelektwal na pag-aari na pag-aari o kontrolado mo. Walang ibibigay na kabayaran kaugnay ng paggamit sa iyong Mga Pagsusumite. Walang obligasyon ang Microsoft na i-post o gamitin ang anumang Pagsusumite, at puwedeng alisin ng Microsoft ang anumang Pagsusumite anumang oras. Sa pamamagitan ng pagbibigay ng Pagsusumite, ginagarantiyahan mo na ikaw ang may-ari o kung hindi man ay kontrolado mo ang lahat ng karapatan sa iyong Pagsusumite at ang iyong Pagsusumite ay hindi napapailalim sa anumang karapatan ng isang third party (kabilang ang anumang karapatan sa personalidad o publicity ng sinumang tao).
 
-## <a name="5-termination-and-suspension"></a>5. Pagwawakas at suspensyon
+## 5. Pagwawakas at suspensyon
 
 1. **Ang iyong pagwawakas.** Puwede mong wakasan ang Kasunduang ito anumang oras. Kung bumili ka ng access sa Mga Serbisyo sa pamamagitan ng Microsoft Azure, kailangan mong bayaran ang anumang halagang dapat bayaran.
 
@@ -129,13 +127,13 @@ Kung may tinukoy kang pangalan ng kumpanya kaugnay ng pag sign up para sa o pag-
 
 4. **Pagwawakas para sa hindi paggamit.** Puwede naming suspindihin o wakasan ang isang Service account pagkatapos ng matagal na panahon ng kawalan ng aktibidad o para sa hindi pagtugon sa mga komunikasyon ng Microsoft. Para sa Mga Serbisyo, kung mayroon kang libreng account, puwede naming wakasan ang Kasunduang ito at/o i-delete ang anumang Data ng User na awtomatikong nabuo sa panahon ng proseso ng pag-sign up sa Mga Serbisyo kung hindi ka makakapag-upload o makakagawa ng anumang Data ng User sa loob ng 90 araw mula sa iyong paunang pagpoprobisyon ng Serbisyo. Aabisuhan ka namin bago ang anumang pagsususpinde o pagwawakas ng account, o pag-delete ng Data ng User.
 
-## <a name="6-warranties"></a>6. Mga Warranty
+## 6. Mga Warranty
 
-**MALIBAN KUNG GINAGARANTIYA SA MGA KALAKIP NA TUNTUNIN, IBINIBIGAY NG MICROSOFT AT NG MGA SUPPLIER NITO ANG MGA SERBISYO (KABILANG ANG CONTENT NG MICROSOFT AT SOFTWARE NG MICROSOFT) "BILANG GANOON," "KASAMA ANG LAHAT NG DEPEKTO" AT "KUNG AVAILABLE." PANANAGUTAN MO ANG PANGANIB NG PAGGAMIT DITO. HINDI KAMI NAGBIBIGAY NG MGA WARRANTY, GARANTIYA, O KONDISYON, HAYAGAN MAN, IPINAHIWATIG, STATUTORY, O IBA PA, KABILANG ANG MGA WARRANTY NG KAKAYAHANG MAIKALAKAL, KAANGKUPAN PARA SA ISANG PARTIKULAR NA LAYUNIN, AT HINDI PAGLABAG. PUWEDE KANG MAGKAROON NG KARAGDAGANG KARAPATAN SA ILALIM NG IYONG MGA LOKAL NA BATAS NA HINDI MABABAGO NG KASUNDUANG ITO. ANG MGA DISCLAIMER NA ITO AY ILALAPAT SA BUONG LAWAK NA PINAHIHINTULUTAN SA ILALIM NG NAAANGKOP NA BATAS, KABILANG ANG APLIKASYON SA MGA IPINAHIWATIG NA WARRANTY NG KAKAYAHANG MAIKALAKAL, KAANGKUPAN PARA SA ISANG PARTIKULAR NA LAYUNIN, AT HINDI PAGLABAG.**
+**MALIBAN KUNG MAY WARRANTY SA MGA KASAMANG TUNTUNIN, IBINIBIGAY NG MICROSOFT AT NG MGA NAUUGNAY NA SUPPLIER ANG MGA SERBISYO (KABILANG ANG MICROSOFT CONTENT AT MICROSOFT SOFTWARE) NANG “AS IS,” (BILANG GANOON) “WITH ALL FAULTS” (KASAMA ANG LAHAT NG DEPEKTO NITO), AT “AS AVAILABLE” (KAPAG AVAILABLE). IKAW ANG MANANAGOT SA PAGGAMIT NITO. WALA KAMING IBINIBIGAY NA WARRANTY, GARANTIYA, O KONDISYON, IPINAHAYAG MAN, IPINAPAHIWATIG, ESTATUTORYO, O IBA PA, KABILANG ANG MGA WARRANTY NG MERCHANTABILITY, KAAKMAAN PARA SA ISANG PARTIKULAR NA LAYUNIN, AT HINDI PAGLABAG. POSIBLENG MAY MGA KARAGDAGAN KANG KARAPATAN SA ILALIM NG MGA LOKAL MONG BATAS NA HINDI MABABAGO NG KASUNDUANG ITO. ILALAPAT ANG MGA DISCLAIMER NA ITO SA SUKDULANG ABOT NA PINAHIHINTULUTAN NG NALALAPAT NA BATAS, KABILANG ANG PAGLALAPAT SA MGA IPINAHIWATIG NA WARRANTY NG MERCHANTABILITY, KAAKMAAN PARA SA ISANG PARTIKULAR NA LAYUNIN, AT HINDI PAGLABAG.**
 
-**Mga content at materyales ng third-party. HINDI KINOKONTROL, SINUSURI, NIREREBISA, INEENDORSO, O TINATANGGAP NG MICROSOFT ANG RESPONSIBILIDAD PARA SA ANUMANG CONTENT, IMPORMASYON, MENSAHE, MATERYALES, PROYEKTONG NAA-ACCESS MULA SA O NAKA LINK SA PAMAMAGITAN NG MGA SERBISYO NG THIRD-PARTY, AT, MALIBAN KUNG GINAGARANTIYAHAN SA ISANG HIWALAY NA KASUNDUAN, ANG MICROSOFT AY HINDI GUMAGAWA NG ANUMANG REPRESENTASYON O WARRANTY TUNGKOL SA AT HINDI MANANAGOT PARA SA ALINMAN SA MGA NABANGGIT. ANG ANUMANG POSIBLENG TRANSAKSYON MO SA NATURANG MGA THIRD PARTY AY NASA IYONG SARILING PANGANIB.**
+**Mga content at material ng third-party. HINDI KINOKONTROL, SINUSURI, NIREREBISA, INEENDORSO, O TINATANGGAP NG MICROSOFT ANG RESPONSIBILIDAD PARA SA ANUMANG CONTENT, IMPORMASYON, MENSAHE, MATERYALES, PROYEKTONG NAA-ACCESS MULA SA O NAKA LINK SA PAMAMAGITAN NG MGA SERBISYO NG THIRD-PARTY, AT, MALIBAN KUNG GINAGARANTIYAHAN SA ISANG HIWALAY NA KASUNDUAN, ANG MICROSOFT AY HINDI GUMAGAWA NG ANUMANG REPRESENTASYON O WARRANTY TUNGKOL SA AT HINDI MANANAGOT PARA SA ALINMAN SA MGA NABANGGIT. IKAW LANG ANG MANANAGOT PARA SA ANUMANG POSIBLENG TRANSAKSYON MO SA MGA NATURANG THIRD PARTY.**
 
-## <a name="7-defense-of-claims"></a>7. Depensa sa mga claim
+## 7. Depensa sa mga claim
 
 1. **Depensa.** Ipagtatanggol ka namin laban sa anumang claim na ginawa ng isang hindi affiliate na third-party na may patent, copyright, o trademark na nilabag ng Mga Serbisyo o Software o may trade secret na nagamit sa paraang labag sa batas. Ipagtatanggol mo kami laban sa anumang claim ng isang hindi affiliate na third-party na nagmumula sa (1) maling paggamit mo o maling paggamit ng iyong end user sa Mga Serbisyo, Content ng Microsoft, o Software ng Microsoft; (2) iyong paglabag o paglabag ng iyong end user sa Kasunduang ito; (3) anumang Content o data na naruruta o ginagamit sa Mga Serbisyo, mga kumikilos sa iyong ngalan, o sa iyong mga end user.
 
@@ -145,15 +143,15 @@ Kung may tinukoy kang pangalan ng kumpanya kaugnay ng pag sign up para sa o pag-
 
 4. **Mga obligasyon.** Kailangang abisuhan agad ng bawat party ang kabila tungkol sa claim sa ilalim ng Seksyon 7 na ito. Ang party na naghahanap ng proteksyon ay dapat (1) bigyan ang kabila ng tanging kontrol sa pagtatanggol at pag-aayos ng claim; at (2) magbigay ng makatwirang tulong sa pagtatanggol sa claim. Ang party na magbibigay ng proteksyon ay (1) magre-reimburse sa kabila para sa makatwirang gastusin mula sa sariling bulsa na matatamo nito sa pagbibigay ng naturang tulong at (2) babayaran ang halaga ng anumang resultang masamang huling hatol (o sa pag-aayos na pumayag ang kabila). Ang mga kaukulang karapatan ng mga party sa pagtatanggol at pagbabayad ng mga hatol o settlement sa ilalim ng Seksyon 7 na ito ay kapalit ng anumang karapatan sa common law o statutory indemnification o mga katulad na karapatan, at ipinapaubaya ng bawat party ang mga naturang karapatan sa common law.
 
-## <a name="8-limitation-of-liability"></a>8. Limitasyon ng pananagutan
+## 8. Limitasyon ng pananagutan
 
 1. **Limitasyon.** Ang pinagsama-samang pananagutan ng bawat party sa ilalim ng Kasunduang ito ay limitado sa mga direktang danyos hanggang sa halagang binayaran sa ilalim ng Kasunduang ito para sa Mga Serbisyo ng Developer na naging sanhi ng naturang pananagutan sa loob ng 12 buwan bago lumitaw ang pananagutan, o para sa Mga Serbisyong ibinigay nang libre, Limang Daang dolyar ng Estados Unidos (\$500.00 USD).
 
-2. **EKSKLUSYON. HINDI MANANAGOT ANG PARTY, O ANG MGA SUPPLIER NITO, SA PAGKAWALA NG KITA, NAWALANG TUBO, O HINDI DIREKTA, ESPESYAL, INSIDENTAL, CONSEQUENTIAL, PUNITIVE, O EXEMPLARY NA DANYOS, KAHIT ALAM NG PARTY NA POSIBLE ANG MGA ITO.**
+2. **EKSKLUSYON. HINDI MANANAGOT ANG PARTY, O ANG MGA SUPPLIER NITO, SA PAGKAWALA NG KITA, NAWALANG TUBO, O HINDI DIREKTA, ESPESYAL, INSIDENTAL, KINAHINATNAN, PUNITIVE, O EXEMPLARY NA DANYOS, KAHIT ALAM NG PARTY NA POSIBLE ANG MGA ITO.**
 
 3. **Mga Pagbubukod sa Mga Limitasyon.** Ang mga limitasyon ng pananagutan sa Seksyon 8 na ito ay nalalapat sa pinakamalawak na abot na pinahihintulutan ng naaangkop na batas, pero hindi nalalapat sa: (1) mga obligasyon ng mga party sa ilalim ng Seksyon 7; o (2) paglabag sa Seksyon 3.2 - 3.4 o paglabag sa mga karapatan sa intelektwal na pag-aari ng kabila.
 
-## <a name="9-miscellaneous"></a>9. Miscellaneous
+## 9. Miscellaneous
 
 1. **Paglalaan ng Mga Karapatan.** Ang lahat ng karapatan hindi hayagang ipinagkaloob dito ay nakalaan sa Microsoft. Kinikilala mo na ang lahat ng karapatan sa intelektwal na pag-aari sa Mga Serbisyo ay nananatiling pag-aari ng Microsoft at walang anuman sa Kasunduang ito ang magagamit para ilipat sa iyo ang alinman sa mga karapatang ito sa intelektwal na pag-aari.
 
@@ -178,7 +176,7 @@ Kung may tinukoy kang pangalan ng kumpanya kaugnay ng pag sign up para sa o pag-
 
 10. **Survival.** 1.2, 2.3-2.6, 3.2, 3.5, 4.2, 4.4, 5, 6, 7, 8, 9, at 10, at lahat ng iba pang depinisyon.
 
-11. **U.S. export jurisdiction.** Napapailalim ang Mga Serbisyo sa U.S. export jurisdiction. Kailangan mong sumunod sa lahat ng naaangkop na batas, kabilang ang U.S. Export Administration Regulations, International Traffic in Arms Regulations, at mga paghihigpit sa end user, end-use, at destinasyon na inisyu ng U.S. at iba pang pamahalaan. Para sa karagdagang impormasyon, tingnan [Pag-export sa Mga Produkto ng Microsoft](https://go.microsoft.com/fwlink/?linkid=306744).
+11. **U.S. export jurisdiction.** Napapailalim ang Mga Serbisyo sa U.S. export jurisdiction. Dapat kang sumunod sa lahat ng naaangkop na batas, kabilang ang U.S. Export Administration Regulations, International Traffic in Arms Regulations, at mga paghihigpit sa end user, end-use, at destinasyon na inisyu ng U.S. at iba pang pamahalaan. Para sa karagdagang impormasyon, tingnan [Pag-export sa Mga Produkto ng Microsoft](https://go.microsoft.com/fwlink/?linkid=306744).
 
 12. **Pagiging available sa ibang bansa.** Nag-iiba-iba ayon sa bansa ang pagiging available ng Mga Serbisyo, kabilang ang mga partikular na feature at bersyon ng wika.
 
@@ -186,7 +184,7 @@ Kung may tinukoy kang pangalan ng kumpanya kaugnay ng pag sign up para sa o pag-
 
 14. **Mga pagbabago.** Puwede naming baguhin ang kasunduang ito anumang oras, may indibidwal mang abiso sa iyo o wala, sa pamamagitan ng pag-post ng isang binagong bersyon sa seksyon ng legal na impormasyon ng Mga Serbisyo ng Developer at Mga Portal ng Dokumentasyon (o sa isang alternatibong site na tutukuyin namin), o sa pamamagitan ng pag-abiso sa iyo alinsunod sa Seksyon 9.b. Ang anumang pagbabago ay magiging epektibo pagkatapos kang abisuhan o pagkatapos itong i-post. **Ang paggamit mo ng Mga Serbisyo pagkatapos maging epektibo ng mga pagbabago ay nangangahulugang sumasang ayon ka sa mga pagbabago sa Kasunduan. Kung hindi ka sumasang ayon sa bagong Kasunduan, kailangan mong itigil ang paggamit ng Mga Serbisyo.**
 
-## <a name="10-definitions"></a>10. Mga Kahulugan
+## 10. Mga Kahulugan
 
 Ang ibig sabihin ng “**Content**” ay mga dokumento, larawan, video, data, at iba pang graphical, textual, o audio-visual content.
 
