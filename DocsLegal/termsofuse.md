@@ -4,7 +4,7 @@ description: Mga Tuntunin ng Paggamit para sa dokumentasyon sa learn.microsoft.c
 keywords: null
 author: null
 manager: null
-ms.date: 09/17/2022
+ms.date: 06/13/2024
 ms.service: learn
 ms.assetid: 674fcfe7-14bb-4fe1-8a25-cbe6eca5dcd1
 layout: ContentPage
@@ -13,21 +13,21 @@ layout: ContentPage
 
 ## Pagtanggap sa Mga Tuntunin
 
-Ang mga sumusunod na Tuntunin ng Paggamit (Terms of Use o "TOU") ay nalalapat sa paggamit mo ng website ng Microsoft Learn ([https://learn.microsoft.com](https://learn.microsoft.com)), Tech Profile, at anumang nauugnay na serbisyo. Nakareserba sa Microsoft ang karapatang i- update ang TOU anumang oras nang hindi ka inaabisuhan. Mababasa ang pinakabagong bersyon ng TOU sa pamamagitan ng pag-click sa hypertext link na "Mga Tuntunin ng Paggamit" na nasa ibaba ng aming mga Web page.
+Ang mga sumusunod na Tuntunin ng Paggamit (Terms of Use o "TOU") ay nalalapat sa paggamit mo ng website ng Microsoft Learn ([https://learn.microsoft.com](https://learn.microsoft.com)), Microsoft Learn Profile, at anumang nauugnay na serbisyo. Nakareserba sa Microsoft ang karapatang i- update ang TOU anumang oras nang hindi ka inaabisuhan. Mababasa ang pinakabagong bersyon ng TOU sa pamamagitan ng pag-click sa hypertext link na "Mga Tuntunin ng Paggamit" na nasa ibaba ng aming mga Web page.
 
 ## Paglalarawan ng Serbisyo
 
-Sa pamamagitan ng website ng Microsoft Learn, Tech Profile, at mga nauugnay na serbisyo, bibigyan ka ng Microsoft ng access sa iba’t ibang resource, kabilang ang mga interactive na pagsasanay na tutorial, dokumentasyon, video, developer tool, download area, forum ng komunikasyon, at impormasyon ng produkto (sama-samang tinatawag na "Mga Serbisyo"). Ang Mga Serbisyo, kasama ang anumang update, pagpapahusay, bagong feature, at/o ang paglalagay ng anumang bagong Web property, ay napapailalim sa TOU.
+Sa pamamagitan ng website ng Microsoft Learn, Microsoft Learn, at mga nauugnay na serbisyo, bibigyan ka ng Microsoft ng access sa iba’t ibang resource, kabilang ang mga interactive na pagsasanay na tutorial, dokumentasyon, video, developer tool, download area, forum ng komunikasyon, at impormasyon ng produkto (sama-samang tinatawag na "Mga Serbisyo"). Ang Mga Serbisyo, kasama ang anumang update, pagpapahusay, bagong feature, at/o ang paglalagay ng anumang bagong Web property, ay napapailalim sa TOU.
 
 ## Limitasyon sa Personal at Hindi Komersyal na Paggamit
 
-Maliban kung iba ang nakasaad, ang Mga Serbisyo ay para sa iyong personal at hindi komersyal na paggamit. Hindi mo puwedeng baguhin, kopyahin, ipamahagi, i-transmit, pampublikong i-display, isagawa, i-reproduce, i-publish, lisensyahan, gawan ng mga hinangong gawa, ilipat, o ibenta ang anumang impormasyon, software, produkto, o serbisyong nakuha mula sa Mga Serbisyo (maliban sa iyong sarili, personal, at hindi komersyal na paggamit) nang walang paunang nakasulat na pahintulot mula sa Microsoft.
+Maliban kung iba ang nakasaad, ang Mga Serbisyo ay para sa iyong personal at hindi komersyal na paggamit. Hindi mo puwedeng baguhin, kopyahin, ipamahagi, i-transmit, pampublikong i-display, isagawa, i-reproduce, i-publish, lisensyahan, gawan ng mga hinangong gawa, ilipat, o ibenta ang anumang impormasyon, software, produkto, o serbisyong nakuha mula sa Mga Serbisyo (maliban sa iyong sarili, personal, at hindi komersyal na paggamit) nang walang paunang nakasulat na pahintulot mula sa Microsoft. Para sa sarili mong kaligtasan, huwag mag-post ng anumang sensitibong impormasyon, gaya ng mga password, petsa ng kapanganakan, mga numero ng Social Security, mga numero ng pasaporte, impormasyon ng credit card, o pinansyal na impormasyon.
 
 ## Privacy at Proteksyon ng Personal na Impormasyon
 
 Mahalaga sa amin ang privacy mo. Pakibasa ang [Pahayag sa Privacy ng Microsoft](https://privacy.microsoft.com/privacystatement) (ang "Pahayag sa Privacy") dahil inilalarawan nito ang mga uri ng data na kinokolekta namin mula sa iyo at sa iyong mga device, kung paano namin ginagamit ang data na iyon, at ang mga legal na batayan kung bakit namin kailangang iproseso ang data na iyon. Inilalarawan din ng Pahayag ng Privacy kung paano ginagamit ng Microsoft ang Mga Pagsusumite (ayon sa tinukoy rito), mga komento, mga rating o review ng Mga Serbisyo, mga komunikasyon, mga file, mga litrato, mga dokumento, mga audio, mga digital na gawa, mga livestream, mga video at anumang iba pang content na ina-upload, sino-store, bino-broadcast, o ibinabahagi mo sa pamamagitan ng Mga Serbisyo, (sama-sama tinatawag na "Content Mo"). Kapag nakabatay sa pahintulot mo ang pagpoproseso at hangga’t pinapayagan ito ng batas, sa pamamagitan ng pagsang-ayon sa Mga Tuntuning ito, pumapayag ka sa pagkolekta, paggamit, at pagbabahagi ng Microsoft ng Content at data Mo ayon sa nakalarawan sa Pahayag sa Privacy. Sa ilang sitwasyon, magbibigay kami ng hiwalay na abiso at hihilingin namin ang iyong pahintulot gaya ng nabanggit sa Pahayag sa Privacy.
 
-**Pampublikong Impormasyon at Content ng User**: Puwedeng tingnan ng iba ang impormasyon ng user na ibibigay mo (kabilang ang iyong username, display name, larawan ng avatar, biography, titulo mo sa trabaho at organisasyon mo, at mga achievement mo bilang user). Kailangan mo lang magbigay ng username at display name para magamit ang Tech Profile. Opsyonal ang lahat ng iba pang field. Puwede mong i-update ang iyong username at display name anumang oras. Puwede ring kolektahin at i-display sa publiko ng Microsoft ang petsa ng pagrehistro mo sa Tech Profile at ang affiliation mo sa Microsoft.
+**Pampublikong Impormasyon at Content ng User**: Puwedeng tingnan ng iba ang impormasyon ng user na ibibigay mo (kabilang ang iyong username, display name, larawan ng avatar, biography, titulo mo sa trabaho at organisasyon mo, mga aktibidad mo sa website ng Microsoft Learn, at mga achievement mo bilang user). Kailangan mo lang magbigay ng username at display name para magamit ang Microsoft Learn Profile. Opsyonal ang lahat ng iba pang field. Puwede mong i-update ang iyong username at display name anumang oras. Puwede ring kolektahin at i-display sa publiko ng Microsoft ang petsa ng pagrehistro mo sa Microsoft Learn Profile at ang affiliation mo sa Microsoft.
 
 Puwede ring makita ng iba ang anumang Content na na-post mo sa publiko. Puwede kang mag-delete ng ilang uri ng Content pagkatapos ma-post ang mga ito, pero hindi lahat ng uri ng Content ay puwedeng i-delete pagkatapos ma-post sa publiko ang mga ito.
 
@@ -58,33 +58,156 @@ ANG MGA DOKUMENTO AT NAUUGNAY NA GRAPHICS NA NA-PUBLISH SA MGA SERBISYO AY PUWED
 
 HINDI KAILANMAN MANANAGOT ANG MICROSOFT AT/O MGA SUPPLIER NITO PARA SA ANUMANG ESPESYAL, HINDI DIREKTA, O KINAHINATNANG DANYOS O ANUMANG DANYOS NA RESULTA NG HINDI PAGGAMIT, PAGKAWALA NG DATA, O PAGKAWALA NG KITA, SA PAMAMAGITAN MAN NG ASUNTO SA PAGLABAG SA KONTRATA (ACTION OF CONTRACT), KAPABAYAAN, O IBA PANG AKSYONG MAY KAUGNAYAN SA TORT, NA RESULTA NG O MAY KAUGNAYAN SA PAGGAMIT O PERFORMANCE NG MGA SERBISYO, SOFTWARE, DOKUMENTO, PAGKAKALOOB O HINDI PAGKAKALOOB NG MGA SERBISYO, O IMPORMASYONG AVAILABLE MULA SA MGA SERBISYO.
 
-## Tech Profile Account, Password, at Seguridad
+## Microsoft Learn Profile Account, Password, at Seguridad
 
-Puwedeng mangailangan ka ng Microsoft account, Azure Active Directory account, o Tech Profile account para ma-access ang ilan sa Mga Serbisyo.
+Puwedeng mangailangan ka ng Microsoft account, Azure Active Directory account, o Microsoft Learn Profile account para ma-access ang ilan sa Mga Serbisyo.
 
 **Microsoft Account**. Gamit ang Microsoft account mo, puwede kang mag-sign in sa mga produkto, website, at serbisyong ibinibigay ng Microsoft at ilang partner ng Microsoft. [Maaari kang gumawa ng account sa Microsoft sa pamamagitan ng pagsa-sign up online](https://signup.live.com/). Napapailalim ang mga Microsoft account sa [Kasunduan sa Mga Serbisyo ng Microsoft](https://www.microsoft.com/servicesagreement/).
 
 **Azure Active Directory Account**. Posibleng may account ka na sa Microsoft sa pamamagitan ng isang organisasyon kung saan ka kabilang. Makipag-ugnayan sa administrator ng iyong organisasyon para sa impormasyon tungkol sa account na ito.
 
-**Tech Profile Account**. Sa pamamagitan ng iyong Tech Profile account, makakapag-sign in ka sa website ng Microsoft Learn at magagamit mo ang mga nauugnay na serbisyo, kabilang ang libreng access sa mga resource sa pagsasanay, pag-unblock ng mga achievement, pagbibigay ng rating, pagkokomento, pag-post ng content, at paggamit ng iba pang interactive na serbisyo. Puwede kang gumawa ng Tech Profile account sa pamamagitan ng paggawa ng username sa Tech Profile pagkatapos mag-log in gamit ang isang Microsoft Account o Azure Active Directory Account.
+**Microsoft Learn Profile Account**. Sa pamamagitan ng iyong Microsoft Learn Profile account, makakapag-sign in ka sa website ng Microsoft Learn at magagamit mo ang mga nauugnay na serbisyo, kabilang ang libreng access sa mga resource sa pagsasanay, pag-unblock ng mga achievement, pagbibigay ng rating, pagkokomento, pag-post ng content, at paggamit ng iba pang interactive na serbisyo. Puwede kang gumawa ng Microsoft Learn Profile account sa pamamagitan ng paggawa ng username sa Microsoft Learn Profile pagkatapos mag-log in gamit ang isang Microsoft Account o Azure Active Directory Account.
 
-Sumasang-ayon kang huwag gumamit ng anumang mali, hindi tumpak, o mapanlinlang na impormasyon kapag nagsa-sign up para sa iyong Tech Profile account. Ikaw lang ang responsable sa pagpapanatili ng kumpidensyalidad ng iyong password at account. Bukod pa rito, ikaw lang ang responsable sa anuman at lahat ng aktibidad na nagaganap sa ilalim ng iyong account. Sumasang-ayon kang abisuhan agad ang Microsoft tungkol sa anumang hindi awtorisadong paggamit sa iyong account o anupamang paglabag sa seguridad. Hindi mananagot ang Microsoft para sa anumang pagkawala na puwede mong maranasan bilang resulta ng paggamit ng ibang tao sa iyong password o account, alam mo man o hindi. Gayunpaman, puwede kang managot para sa mga pagkawalang mararanasan ng Microsoft o iba pang party dahil sa paggamit ng ibang tao sa iyong account o password. Hindi ka puwedeng gumamit ng account ng sinuman kahit kailan, nang wala ang pahintulot ng may-ari ng account.
+Sumasang-ayon kang huwag gumamit ng anumang mali, hindi tumpak, o mapanlinlang na impormasyon kapag nagsa-sign up para sa iyong Microsoft Learn Profile account. Ikaw lang ang responsable sa pagpapanatili ng kumpidensyalidad ng iyong password at account. Bukod pa rito, ikaw lang ang responsable sa anuman at lahat ng aktibidad na nagaganap sa ilalim ng iyong account. Sumasang-ayon kang abisuhan agad ang Microsoft tungkol sa anumang hindi awtorisadong paggamit sa iyong account o anupamang paglabag sa seguridad. Hindi mananagot ang Microsoft para sa anumang pagkawala na puwede mong maranasan bilang resulta ng paggamit ng ibang tao sa iyong password o account, alam mo man o hindi. Gayunpaman, puwede kang managot para sa mga pagkawalang mararanasan ng Microsoft o iba pang party dahil sa paggamit ng ibang tao sa iyong account o password. Hindi ka puwedeng gumamit ng account ng sinuman kahit kailan, nang wala ang pahintulot ng may-ari ng account.
 
-Kung gagawa ka ng Tech Profile account sa ngalan ng isang entity, tulad ng iyong negosyo o employer, kinakatawan mo na mayroon kang legal na awtoridad na ipailalim ang entity na iyon sa Mga Tuntuning ito. Hindi mo maililipat ang mga kredensyal ng iyong Tech Profile account sa ibang user o entity. Para protektahan ang iyong account, panatilihing kumpidensyal ang mga detalye ng iyong account. Responsable ka sa lahat ng aktibidad na nagaganap sa ilalim ng iyong Tech Profile account.
+Kung gagawa ka ng Microsoft Learn Profile account sa ngalan ng isang entity, tulad ng iyong negosyo o employer, kinakatawan mo na mayroon kang legal na awtoridad na ipailalim ang entity na iyon sa Mga Tuntuning ito. Hindi mo maililipat ang mga kredensyal ng iyong Microsoft Learn Profile account sa ibang user o entity. Para protektahan ang iyong account, panatilihing kumpidensyal ang mga detalye ng iyong account. Responsable ka sa lahat ng aktibidad na nagaganap sa ilalim ng iyong Microsoft Learn Profile account.
 
-Puwede mong isara ang iyong Tech Profile Account sa pamamagitan ng pag-access sa mga setting ng Tech Profile account mo.
+Puwede mong isara ang iyong Microsoft Learn Profile Account sa pamamagitan ng pag-access sa mga setting ng Microsoft Learn Profile account mo.
 
 ## Bawal ang Labag sa Batas o Ipinagbabawal na Paggamit
 
 Bilang kondisyon sa paggamit mo sa Mga Serbisyo, hindi mo gagamitin ang Mga Serbisyo para sa anumang layunin na labag sa batas o ipinagbabawal ng mga tuntunin, kondisyon, at abisong ito. Hindi mo puwedeng gamitin ang Mga Serbisyo sa anumang paraan na puwedeng makasira, maka-disable, makapagpahirap, o makapagpahina sa anumang server ng Microsoft, o sa (mga) network na nakakonekta sa anumang server ng Microsoft, o makahadlang sa paggamit at pakikinabang ng anupamang party sa anumang Serbisyo. Hindi mo puwedeng subukang makakuha ng hindi awtorisadong access sa anumang Serbisyo, iba pang account, computer system o network na nakakonekta sa anumang server ng Microsoft, o sa alinman sa Mga Serbisyo, sa pamamagitan ng pag-hack, pagmimina ng password, o anupamang paraan. Hindi ka puwedeng makakuha o magtangkang makakuha ng anumang materyal o impormasyon sa pamamagitan ng anumang paraang sinasadyang hindi gawing available sa pamamagitan ng Mga Serbisyo.
+
+## Mga Patakaran 
+
+Para matiyak ang digital na kaligtasan ng kung paano nakikipag-ugnayan ang mga user sa isa't isa sa kanilang content at sa kanilang gawi, may mga tuntunin ang Mga Serbisyo tungkol sa kung anong mga uri ng content at gawi ang hindi pinapayagan. Aalisin ang mga ipinagbabawal na content. Puwedeng suspindihin o i-delete ang iyong account sa Mga Serbisyo kung magpo-post ka ng mapaminsalang content.  
+
+### Pambu-bully at pangha-harass 
+
+Hindi namin pinapayagan ang mga content o gawi na nagta-target sa isang tao o grupo sa pamamagitan ng mapang-abusong pagkilos. Kasama rito ang anumang pagkilos na: 
+
+- Nangha-harass, naninindak, o nagbabanta sa iba.
+- Nananakit ng mga tao sa pamamagitan ng pang-iinsulto o pangmamaliit sa kanila. 
+- Tuloy-tuloy na pakikipag-ugnayan o interaksyon na hindi kanais-nais, lalo na kung ang pakikipag-ugnayan ay nagiging dahilan para matakot ang isang tao sa injury. 
+
+### Sekswal na pananamantala at pang-aabuso sa mga bata (child sexual exploitation and abuse o CSEA) 
+
+Hindi namin pinapayagan ang pananamantala, pananakit, o pagbabanta ng pananakit sa mga bata sa Mga Serbisyo. Ang CSEA ay anumang content o aktibidad na nakakapanakit o nagbabantang makapanakit sa isang bata sa pamamagitan ng pananamantala, trafficking, pangingikil, o paglalagay sa panganib. Kasama rito ang pagbabahagi ng visual media na naglalaman ng sekswal na content na may bata o nagse-sexualize sa isang bata. Kasama rin sa CSEA ang grooming, o ang hindi naaangkop na interaksyon sa mga bata sa pamamagitan ng pakikipag-ugnayan, pribadong pagmemensahe, o pakikipag-usap sa isang bata para humingi o mag-alok ng pakikipagtalik o sekswal na content, pagbabahagi ng content na sekswal na nagpapahiwatig, at pagpaplano na makipagkita sa isang bata para sa mga sekswal na gawain. Ang isang bata ay sinumang wala pang 18 taong gulang o wala pa sa hustong gulang sa ilalim ng naaangkop na batas. 
+
+Awtomatiko naming ide-delete ang Microsoft Learn account ng sinumang user na nagpo-post ng CSEA. 
+
+### Koordinasyon ng pinsala  
+
+Hindi dapat gamitin ang Mga Serbisyo para makasakit ng mga tao, kabilang ang pakikipagtulungan sa iba para magdulot ng pisikal na pinsala. Hindi pinapayagan ang pakikipagsabwatan o paggawa ng mga partikular na plano kasama ng iba para pagtulungang pisikal na saktan ang isang tao. 
+
+### Graphic na karahasan at pagdanak ng dugo  
+
+Nakakabagabag, mapanakit, o minsan pa nga ay traumatic para sa mga user ang mga content ng karahasan sa totoong buhay. 
+
+Hindi namin pinapayagan ang anumang visual na content na nagpo-promote ng karahasan sa totoong buhay o pagdanak ng dugo ng tao. 
+
+Puwedeng kasama rito ang mga larawan o video na nagpapakita ng mga sumusunod: 
+
+- Mga tunay na malubhang pisikal na pananakit o pagpatay sa isang tao o grupo. 
+- Marahas na domestic na pang-aabuso sa isang tunay na tao o mga tao. 
+- Matitinding epekto o pisikal na trauma, gaya ng mga lamang-loob o tissue, sunog na bangkay ng isang tao, mga putol na kamay o paa, o pagpugot ng ulo. 
+
+### Mapoot na pananalita at diskriminasyon  
+
+Hindi namin pinapayagan ang mapoot na content na nang-aatake, nang-iinsulto, o nanlalait ng isang tao dahil sa isang protektadong katangian, gaya ng kanilang lahi, etnisidad, kasarian, gender identity, sekswal na oryentasyon, relihiyon, pinagmulang bansa, edad, pagkakaroon ng kapansanan, o caste. 
+
+Kasama sa mapoot na pananalita ang mga sumusunod: 
+
+- Pag-promote ng mga mapaminsalang stereotype tungkol sa mga tao dahil sa isang protektadong katangian. 
+- Mga hindi makataong pahayag, gaya ng paghahambing ng isang tao sa hayop o iba pang non-human, dahil sa isang protektadong katangian. 
+- Paghikayat o pagsuporta sa karahasan sa isang tao dahil sa isang protektadong katangian. 
+- Panawagang ihiwalay, ibukod, o sindakin ang mga tao dahil sa kanilang protektadong katangian. 
+- Mga simbolo, logo, o iba pang larawang kinikilala bilang nagpapahayag ng poot o pagiging superyor ng lahi. 
+
+### Walang pahintulot na maseselang imahe at pangingikil kapalit ng maseselang imahe  
+
+Hindi namin pinapayagan ang pagbabahagi ng mga sekswal na maseselang imahe ng isang tao nang wala ang kanyang pahintulot— na tinatawag ding walang pahintulot na maseselang imahe (non-consensual intimate imagery o NCII). Hindi namin pinapayagan ang NCII na maipamahagi sa aming mga serbisyo, at hindi rin namin pinapayagan ang anumang content na pumupuri, sumusuporta, o humihiling ng NCII. 
+
+Sa pangkalahatan, kung ang video o imahe ay may mga sumusunod na katangian, itinuturing namin itong NCII: 
+
+- Pribado itong kinunan, wala sa isang propesyonal na setting. 
+- Nagpapakita ito ng sekswal na aktibidad, kahubaran, o sexualized na bahagi ng katawan.  
+- Hindi sumang-ayon ang taong ipinapakita sa imahe na gawin o ibahagi ang imahe. 
+
+Bukod pa rito, hindi pinapayagan ng Microsoft ang anumang banta na magbahagi o mag-publish ng NCII—na tinatawag ding pangingikil kapalit ng maseselang imahe. Kasama rito ang paghingi o pagbabanta sa isang tao na magbigay ng pera, mga imahe, o iba pang bagay na may halaga kapalit ng hindi pagsasapubliko ng NCII.  
+
+### Sekswal na solicitation  
+
+Hindi namin pinapayagan ang mga tao na gamitin ang mga produkto at serbisyo nito para humiling o mag-alok ng pakikipagtalik, mga sekswal na serbisyo, o sekswal na content kapalit ng pera o anupamang may halaga. 
+
+### Pagpapakamatay at pananakit sa sarili  
+
+Nagsusumikap kaming alisin ang anumang content tungkol sa pagpapakamatay at pananakit sa sarili na posibleng mapanganib. Alam din naming puwedeng gamitin ng mga tao ang aming mga serbisyo para talakayin ang tungkol sa kalusugan sa pag-iisip, ibahagi ang kanilang mga kuwento, o sumali sa mga grupo ng mga taong apektado rin ng pagpapakamatay o pananakit sa sarili. 
+
+Kasama rito ang sumusunod (nang walang limitasyon): 
+
+- Pagsuporta sa mga pangkalahatang paraan kung paano puwedeng magpatiwakal ang mga tao, gaya ng pagbaril, pagbibigti, o overdose ng gamot. 
+- Paghimok sa iba na magpakamatay. 
+- Pagpapakita ng mga imahe ng totoo o pagtatangkang pagpapakamatay. 
+- Pagpuri sa iba na namatay dahil sa pagpapatiwakal. 
+
+Ang content ng pananakit sa sarili ay nagpapakita, pumupuri, o naghihimok ng pisikal na pananakit sa sarili, kabilang ang paglalaslas, pagpaso, o pagsugat sa sariling balat. Kasama rin dito ang content na humihikayat ng o nagtuturo para magkaroon ng mga problema sa pagkain, o sistematikong pagkain nang sobra o kulang. 
+
+### Terorismo at marahas na ekstremismo  
+
+Hindi namin pinapayagan ang content na pumupuri o sumusuporta sa mga terorista o mararahas na ekstremista, tumutulong sa kanilang mag-recruit, o humihikayat o nagbibigay-daan sa kanilang mga aktibidad. Tumitingin kami sa Consolidated List ng United Nations Security Council para tumukoy ng mga terorista o grupo ng terorista. Kasama sa mararahas na ekstremista ang mga taong yumayakap sa isang ideolohiya ng karahasan o marahas na poot laban sa ibang grupo. 
+
+Ide-delete namin ang Microsoft Learn account ng sinumang user na nagpo-post ng content ng terorismo at marahas na ekstremismo.  
+
+### Trafficking  
+
+Hindi namin pinapayagan ang anumang content na nagtataguyod ng human trafficking. Nagkakaroon ng trafficking kapag may nananamantala ng iba para sa personal na kapakinabangan sa pamamagitan ng pagkakait sa iba ng kanilang mga karapatang pantao. 
+
+Kadalasang may tatlong bahagi ang trafficking: 
+
+- Pag-recruit, paglipat, pag-relocate, pagbabayad para sa, o pag-abduct ng mga tao. 
+- Paggamit ng—o pagbabantang gagamit ng—puwersa, mga kasinungalingan, panloloko, o koersyon para isagawa ang mga aktibidad na ito. 
+- Isinasagawa ang mga aktibidad para sa pera, status, o iba pang uri ng ganansya. 
+
+Kasama sa trafficking ang pamimilit sa mga tao na magtrabaho, magpakasal, magsagawa ng sekswal na aktibidad, o sumailalim sa mga medikal na paggamot o operasyon, nang wala ang kanilang pahintulot at hindi ito limitado sa anumang edad o pinagmulan. 
+
+### Mararahas na banta, pang-uudyok, at pagpuri sa karahasan  
+
+Hindi namin pinapahintulutan ang content na humihikayat ng karahasan laban sa iba sa pamamagitan ng mararahas na banta o pang-uudyok. 
+
+Ang mga pagbabanta ng karahasan ay mga pananalitang nagpapakita ng partikular na intensyong magdulot ng malubhang pisikal na pananakit sa iba.  
+
+Ang pang-uudyok ay materyal na humihikayat, nanunulsol, o malamang na magresulta sa malubhang pisikal na pananakit sa isang tao o grupo. 
+
+Hindi rin namin pinapayagan ang pagpuri sa karahasan sa pamamagitan ng content na pumupuri o sumusuporta sa mga tunay na aksyon ng karahasan na nagdudulot ng malubhang pisikal na pananakit sa mga tao o grupo, kabilang ang karahasang nangyari na dati. 
+
+### Pang-adult at sekswal 
+
+Hindi namin pinapayagan ang paggamit sa Mga Serbisyo para gumawa o magbahagi ng hindi naaangkop na content o materyal (kabilang, halimbawa, ang kahubaran, bestiality, pornograpiya, mapanakit na pananalita, graphic na karahasan, pananakit sa sarili, o kriminal na aktibidad). 
+
+### Kabastusan at bulgaridad 
+
+Hindi namin pinapayagan ang pagmumura o iba pang mapanakit na pananalita.  
+
+### Spam 
+
+Hindi namin pinapayagan ang spam o anumang post na nagsasagawa ng phishing o paggawa o pamamahagi ng malware.  
+
+Ang spam ay ang hindi kanais-nais o hindi hinihinging maramihang email, posting, contact request, SMS (mga text message), instant message, o katulad na electronic na komunikasyon.  
+
+Ang phishing ay pagpapadala ng mga email o iba pang electronic na komunikasyon para mapanloko o ilegal na maitulak ang mga recipient na magbigay ng personal o sensitibong impormasyon para magkaroon ng access sa mga account o record, exfiltration ng mga dokumento o iba pang sensitibong impormasyon, bayad at/o pinansyal na kapakinabangan.  
+
+Kasama sa malware ang anumang aktibidad na idinisenyo para magdulot ng teknikal na pinsala, gaya ng paghahatid ng mga mapanirang executable, pag-organisa ng mga denial of service attack, o pamamahala ng mga command and control server. 
+
+### Paninirang-puri, panggagaya, maling impormasyon 
+
+Hindi namin pinapayagan ang anumang aktibidad na mapanloko, mali, o mapanlinlang (hal., paghingi ng pera sa ilalim ng mga mapanlinlang na pahayag, pagpapanggap bilang ibang tao, paninirang-puri, pagmamanipula ng Mga Serbisyo para madagdagan ang bilang ng pag-play, o makaapekto sa mga ranking, rating, o komento). 
 
 ## Paggamit ng Mga Serbisyo
 
 Ang Mga Serbisyo ay puwedeng maglaman ng mga serbisyo sa e-mail, serbisyo sa bulletin board, chat area, news group, forum, komunidad, personal na web page, kalendaryo, photo album, file cabinet, at/o iba pang pasilidad para sa pagmemensahe o komunikasyong idinisenyo para bigyang-daan kang makipag-ugnayan sa iba. Sumasang-ayon kang gamitin lang ang Mga Serbisyo para mag-post, magpadala, at tumanggap ng mga mensahe at materyal na tama at, kapag naaangkop, nauugnay sa partikular na Serbisyo. Bilang halimbawa, at hindi bilang limitasyon, sumasang-ayon ka na kapag gumagamit ng Mga Serbisyo, hindi mo gagawin ang mga sumusunod:
 
 - Gamitin ang Mga Serbisyo kaugnay ng mga survey, contest, pyramid scheme, chain letter, junk email, spamming, o anumang duplicative o unsolicited na mensahe (komersyal man o hindi).
-- Manira, mang-abuso, mang-harass, magmanman, magbanta, o labagin ang mga legal na karapatan ng iba sa iba pang paraan (gaya ng mga karapatan sa privacy at publicity).
-- Mag-publish, mag-upload, mamahagi, o mag-disseminate ng anumang hindi naaangkop, bastos, mapanira, malaswa, mahalay, o labag sa batas na paksa, pangalan, materyal, o impormasyon.
 - Mag-upload, o kung hindi man ay gawing available, ang mga file na naglalaman ng mga larawan, litrato, software, o iba pang materyal na protektado ng mga batas ng intelektwal na pag-aari, kabilang bilang halimbawa, at hindi bilang limitasyon, ang mga batas sa copyright o trademark (o sa pamamagitan ng mga karapatan sa privacy o publicity) maliban kung pagmamay-ari o kontrolado mo ang mga karapatan sa mga iyon o kung natanggap mo ang lahat ng kinakailangang pahintulot na gawin ang mga iyon.
 - Gumamit ng anumang materyal o impormasyon, kasama ang mga larawan o litrato, na ginawang available sa pamamagitan ng Mga Serbisyo sa anumang paraan na lumalabag sa anumang copyright, trademark, patent, trade secret, o iba pang proprietary na karapatan ng sinuman o anumang party.
 - Mag-upload ng mga file na naglalaman ng mga virus, Trojan horse, worm, time bomb, cancelbot, sirang file, o anupamang katulad na software o program na puwedeng makapinsala sa pagpapatakbo ng computer ng iba o property ng iba.
